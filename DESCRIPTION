@@ -1,0 +1,11 @@
+Package: persephone
+Title: A collection of functions for emulating crop yield change
+Version: 1.0
+Authors@R: person("Abigail", "Snyder", email = "abigial.snyder@pnnl.gov", role = c("aut", "cre"))
+Description: Functions to emulate crop yield change to global CO2 concentration, local temperature,
+ and local precipitation changes, based on the C3MP data set.
+Depends: R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

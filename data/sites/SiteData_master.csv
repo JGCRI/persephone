@@ -1,0 +1,1075 @@
+"site","region","country","latWeath","longWeath","weathSource","GCAM_commodity","crop","irrigation","nitrogen","tech","model","component","cultivar","baseY"
+3,"USA","USA",40.44,255.37,"AgMERRA","Maize","Maize","IRR",999,"hi","RZWQM2","CSM-CERESv4.0","Dekalb 52-59",9674.71335573552
+4,"USA","USA",40.1548,256.858,"AgMERRA","Maize","Maize","IRR",999,"hi","RZWQM2","CSM-CERESv4.0","Pioneer Brand 3732",8818.98878820315
+9,"USA","USA",42.2,266.4,"Local weather station","Maize","Maize","RFD",200,"hi","DRAINMOD-DSSAT","CERES-Maize, CROPGRO","Missing",9375.68549867645
+10,"India","India",22.19,87.19,"AgMERRA","Rice","Rice","IRR",100,"hi","DSSATv4.5","CERES-Rice","IR 36",3786.16852011266
+12,"India","India",11,77,"TNAU Observatory","Rice","Rice","IRR",150,"hi","DSSATv4.5.1.023","CERES-RICE","CORH3",5696.83089159793
+13,"India","India",11,79.3,"TNAU Observatory/AgMERRA","Rice","Rice","IRR",-99,"lo","DSSATv4.5.1.023","CERES-Rice","Missing",4477.53241857786
+14,"India","India",11,77,"TNAU Observatory","Maize","Maize","RFD",30,"lo","DSSATv4.5.1.023","CERES-Maize","CO1",5802.93577664581
+16,"India","India",28.2,77.48,"State Climatologist Observations","Wheat","Wheat","IRR",100,"hi","APSIMv6.0","APSIM-Wheat","Sujata",3282.42783392179
+18,"EU-15","Belgium",50.583,4.691,"AgMERRA","Wheat","Wheat","RFD",-99,"lo","STICSv6.9","Missing","Julius",8867.36284128544
+23,"South America_Southern","Bolivia",-17.11,296.75833,"AgMERRA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4934.27587607829
+24,"South America_Southern","Bolivia",-17.11,296.75833,"AgMERRA","Maize","Maize","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3938.01650297863
+25,"South America_Southern","Bolivia",-17.11,296.75833,"AgMERRA","Rice","Rice","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",8326.97406412893
+26,"South America_Southern","Bolivia",-16.75,297.5,"AgMERRA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",5122.07022904248
+27,"South America_Southern","Bolivia",-16.75,297.5,"AgMERRA","Maize","Maize","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3574.85721526626
+28,"South America_Southern","Bolivia",-16.75,297.5,"AgMERRA","Rice","Rice","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",7983.78977180605
+29,"South America_Southern","Bolivia",-16.81667,296.51667,"AgMERRA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4925.95998163442
+30,"South America_Southern","Bolivia",-16.81667,296.51667,"AgMERRA","Maize","Maize","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3569.82941274145
+31,"South America_Southern","Bolivia",-16.81667,296.51667,"AgMERRA","Rice","Rice","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",7257.03805345782
+32,"South America_Southern","Bolivia",-17.6333,297.76667,"AgMERRA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4636.05741940816
+33,"South America_Southern","Bolivia",-17.6333,297.76667,"AgMERRA","Maize","Maize","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3600.70001119292
+34,"South America_Southern","Bolivia",-17.6333,297.76667,"AgMERRA","Rice","Rice","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",7938.65437602756
+35,"South America_Southern","Bolivia",-17.25,296.15917,"AgMERRA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4831.65946422557
+36,"South America_Southern","Bolivia",-17.25,296.15917,"AgMERRA","Maize","Maize","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3693.80229185667
+37,"South America_Southern","Bolivia",-17.25,296.15917,"AgMERRA","Rice","Rice","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",7335.59039172024
+38,"South America_Southern","Bolivia",-15.7,296.9,"AgMERRA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4888.58848857345
+39,"South America_Southern","Bolivia",-15.7,296.9,"AgMERRA","Maize","Maize","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3092.51915945472
+40,"South America_Southern","Bolivia",-15.7,296.9,"AgMERRA","Rice","Rice","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",5791.5043137346
+41,"Canada","Canada",50.257,252.264,"Environment Canada","Wheat","Wheat","RFD",7,"lo","DSSATv4.0, Modified","CERES-Wheat","Lillian",2357.51422549158
+42,"Canada","Canada",50.257,252.264,"Environment Canada","Wheat","Wheat","RFD",38,"lo","DSSATv4.0, Modified","CERES-Wheat","Lillian",3396.18708924357
+49,"Middle East","Iran",36.85,54.27,"Local IRIMO weather station ","Wheat","Wheat","RFD",100,"hi","SSM-Wheat (Soltani & Sinclair, 2012)","Missing","Kohdasht ",3908.02213073914
+50,"Middle East","Iran",36.85,54.27,"Local IRIMO weather station ","Wheat","Wheat","IRR",150,"hi","SSM-Wheat (Soltani & Sinclair, 2012)","Missing","Tajan",6021.92735618948
+51,"Middle East","Iran",36.85,54.27,"Local IRIMO weather station ","Soybeans","Soybeans","IRR",0,"lo","SSM-Soybean  (Soltani & Sinclair, 2012)","Missing","Sahar",3842.40923346346
+52,"USA","USA",33.058,247.952,"AgMERRA","Wheat","Wheat","IRR",393.1,"hi","APSIMv7.4","APSIM-Wheat","Yecora",4739.92407686962
+53,"China","China",41.317,123.783,"AgMERRA","Maize","Maize","RFD",999,"hi","APSIMv6.1","APSIM-Maize","Danyu 13",9345.65104631893
+54,"China","China",43.183,124.333,"AgMERRA","Maize","Maize","RFD",999,"hi","APSIMv6.1","APSIM-Maize","Xianyu 335",11194.2149019105
+55,"China","China",45.75,126.767,"AgMERRA","Maize","Maize","RFD",999,"hi","APSIMv6.1","APSIM-Maize","Sidan 19",10108.6986631383
+56,"China","China",41.317,123.783,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5","CERES-Maize","Danyu 14",11711.338309815
+57,"China","China",43.183,124.333,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5","CERES-Maize","Xianyu 336",10780.297578545
+58,"China","China",45.75,126.767,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5","CERES-Maize","Sidan 19",11499.8620833792
+59,"USA","USA",42.017,266.25,"AgMERRA","Maize","Maize","RFD",999,"hi","MCWLA-Maizev2.0","Missing","Missing",9840.82042525735
+60,"China","China",32,118.6,"AgMERRA","Rice","Rice","IRR",999,"hi","MCWLA-Ricev2.0","Missing","Missing",8383.98359125503
+61,"EU-15","The Netherlands",51.967,5.633,"AgMERRA","Wheat","Wheat","RFD",999,"hi","MCWLA-Wheatv2.0","Missing","Missing",6719.53343139839
+96,"EU-15","Italy",43.767,11.217,"Local weather station","Wheat","Wheat","RFD",0,"lo","Sirius Qualityv2","Missing","Creso",3934.94698666504
+97,"EU-15","Italy",43.767,11.217,"Local weather station","Wheat","Wheat","RFD",60,"lo","Sirius Qualityv2","Missing","Creso",6077.82915047374
+98,"EU-15","Italy",43.767,11.217,"Local weather station","Wheat","Wheat","RFD",120,"hi","Sirius Qualityv2","Missing","Creso",6821.18211131734
+99,"EU-15","Italy",43.767,11.217,"Local weather station","Wheat","Wheat","RFD",180,"hi","Sirius Qualityv2","Missing","Creso",7027.23638144541
+100,"EU-15","Italy",43.767,11.217,"Local weather station","Wheat","Wheat","RFD",0,"lo","Sirius Qualityv2","Missing","Creso",3888.47570871219
+101,"EU-15","Italy",43.767,11.217,"Local weather station","Wheat","Wheat","RFD",60,"lo","Sirius Qualityv2","Missing","Creso",5792.81394212418
+102,"EU-15","Italy",43.767,11.217,"Local weather station","Wheat","Wheat","RFD",120,"hi","Sirius Qualityv2","Missing","Creso",6325.59989952239
+103,"EU-15","Italy",43.767,11.217,"Local weather station","Wheat","Wheat","RFD",180,"hi","Sirius Qualityv2","Missing","Creso",6447.32112409946
+105,"EU-15","Italy",45.36,11.13,"Local weather station","Wheat","Wheat","RFD",130,"hi","Sirius Qualityv2","Missing","Biensur",7192.63577143527
+106,"EU-15","Italy",45.36,11.13,"Local weather station","Wheat","Wheat","RFD",160,"hi","Sirius Qualityv2","Missing","Biensur",7358.69765952918
+107,"EU-15","Italy",45.36,11.13,"Local weather station","Wheat","Wheat","RFD",200,"hi","Sirius Qualityv2","Missing","Biensur",7374.61339030695
+108,"EU-15","Italy",45.36,11.13,"Local weather station","Wheat","Wheat","RFD",200,"hi","Sirius Qualityv2","Missing","Biensur",7254.12900078318
+109,"EU-15","Austria",48.23,16.57,"Local weather station","Wheat","Wheat","RFD",100,"hi","CropSystv3.04.08","Missing","Capo",3679.14268048771
+110,"EU-15","Austria",48.23,16.57,"Local weather station","Wheat","Wheat","RFD",100,"hi","CropSystv3.04.08","Missing","Capo",3246.00752010315
+111,"EU-15","Austria",48.23,16.57,"Local weather station","Maize","Maize","RFD",202,"hi","CropSystv3.04.08","Missing","Benicia",5445.08294452186
+112,"EU-15","Austria",48.23,16.57,"Local weather station","Maize","Maize","RFD",202,"hi","CropSystv3.04.08","Missing","Benicia",4445.86025855125
+113,"EU-15","Austria",46.95,15.82,"Local weather station","Wheat","Wheat","RFD",100,"hi","CropSystv3.04.08","Missing","Capo",4023.27094596454
+114,"EU-15","Austria",46.95,15.82,"Local weather station","Wheat","Wheat","RFD",100,"hi","CropSystv3.04.08","Missing","Capo",3923.48886171754
+115,"EU-15","Austria",46.95,15.82,"Local weather station","Maize","Maize","RFD",202,"hi","CropSystv3.04.08","Missing","Benicia",6743.26376459308
+116,"EU-15","Austria",46.95,15.82,"Local weather station","Maize","Maize","RFD",202,"hi","CropSystv3.04.08","Missing","Benicia",6553.72301723265
+118,"EU-12","Czech Republic",48.8,16.8,"Local weather station","Wheat","Wheat","RFD",120,"hi","CropSystv3.04.08","Missing","Samanta",7651.77178037599
+120,"EU-12","Czech Republic",49.47,17.28,"Local weather station","Wheat","Wheat","RFD",100,"hi","CropSystv3.04.08","Missing","Samanta",7637.07710050153
+122,"EU-15","Denmark",55.18,11.23,"Local weather station","Wheat","Wheat","RFD",170,"hi","CropSystv3.04.08","Missing","Tommi",7542.29811230018
+124,"EU-15","Denmark",56.5,9.58,"Local weather station","Wheat","Wheat","RFD",170,"hi","CropSystv3.04.08","Missing","Tommi",8135.19717289437
+126,"EU-15","Denmark",54.9,9.13,"Local weather station","Wheat","Wheat","RFD",170,"hi","CropSystv3.04.08","Missing","Tommi",5912.16463836531
+128,"EU-15","Germany",52.85,14.12,"Local weather station","Wheat","Wheat","RFD",100,"hi","CropSystv3.04.08","Missing","Bussard",3519.81974355003
+130,"EU-15","France",43.6043,1.4437,"AgMERRA","Maize","Maize","RFD",200,"hi","STICS (ModuloSTICS 1,2)","Corn","Volga",8869.2447725826
+146,"India","India",28.3827,77.0938,"AgMERRA","Wheat","Wheat","IRR",120,"hi","InfoCropv2","InfoCrop-Wheat","PBW 154",5441.33911614746
+147,"India","India",28.3827,77.0938,"AgMERRA","Maize","Maize","IRR",100,"hi","InfoCropv2","InfoCrop-Maize","HPQM1",5232.55060949359
+148,"India","India",28.3827,77.0938,"AgMERRA","Soybeans","Soybeans","RFD",30,"lo","InfoCropv2","InfoCrop-Soybean","P1495",1636.52523363718
+149,"EU-15","Denmark",56.3,9.34,"Danish Meteorological Institute","Wheat","Wheat","RFD",140,"hi","Fasset 2.2.4","Missing","Audi, Deben, Hereford, Robigus",6099.78751445535
+150,"Canada","Canada",49.7,247.2225,"Agriculture and Agri-Food Canada","Wheat","Wheat","RFD",45,"lo","DailyDaycentv01.03.2013","FRTCINDX = 2 (Annual Plant) - only Max/Min Temp & precip","Katepwa Sp",2883.33154188124
+151,"Canada","Canada",49.7,247.2225,"Agriculture and Agri-Food Canada","Wheat","Wheat","RFD",45,"lo","DailyDaycentv01.03.2013","FRTCINDX = 5 - only Max/Min Temp & Precip","Katepwa Sp",2666.68733167361
+152,"Canada","Canada",49.7,247.2225,"Agriculture and Agri-Food Canada","Wheat","Wheat","RFD",45,"lo","DailyDaycentv01.03.2013","FRTCINDX = 2 (Annual Plant) - all climate inputs","Katepwa Sp",2846.84419388156
+153,"Canada","Canada",49.7,247.2225,"Agriculture and Agri-Food Canada","Wheat","Wheat","RFD",45,"lo","DailyDaycentv01.03.2013","FRTCINDX = 5 - all climate inputs","Katepwa Sp",2821.18987507529
+193,"EU-15","France",46.4167,0.1167,"INRA","Maize","Maize","RFD",220,"hi","STICSv7.0","STICS","Furio",5583.37261045755
+194,"Mexico","Mexico",20.45,262.36,"AgMERRA","Maize","Maize","RFD",150,"hi","DSSATv4.5.0","CERES-Maize","PIO 30F32",7190.22613287977
+195,"Mexico","Mexico",20.45,262.36,"AgMERRA","Maize","Maize","RFD",150,"hi","DSSATv4.5.0","CERES-Maize","DK 357",5551.53616658638
+196,"Mexico","Mexico",19.53,261.1532,"AgMERRA","Wheat","Wheat","IRR",150,"hi","DSSATv4.5.0","CERES-Wheat","PBW343",8040.95519714348
+199,"Australia_NZ","Australia",-35.16,147.46,"AgMERRA","Wheat","Wheat","RFD",60,"lo","APSIMv1.55s","Nwheat","Wyalk",3024.82949537162
+200,"Australia_NZ","Australia",-31.65,117.23,"AgMERRA","Wheat","Wheat","RFD",90,"lo","APSIMv1.55s","Nwheat","Janz",3581.52669365676
+205,"India","India",22.43,75.5,"NRCS - Indore","Soybeans","Soybeans","RFD",20,"lo","InfoCrop-Soybean","Missing","JS 335",2669.74066318268
+206,"India","India",22.43,75.5,"NRCS - Indore","Soybeans","Soybeans","IRR",20,"lo","InfoCrop-Soybean","Missing","JS 335",3224.99585202214
+228,"Australia_NZ","Australia",-34.4046,147.5326,"Climatologist Observations","Wheat","Wheat","RFD",75,"lo","APSIMv7.5","APSIM-Wheat","Hartog",3695.81088688326
+229,"Australia_NZ","Australia",-35.2,149.089,"Climatologist Observations","Wheat","Wheat","RFD",100,"hi","APSIMv7.5","APSIM-Wheat","Hartog",3616.09801409749
+230,"Australia_NZ","Australia",-35.11,147.37,"Climatologist Observations","Wheat","Wheat","RFD",100,"hi","APSIMv7.5","APSIM-Wheat","Hartog",3772.50978104425
+231,"Australia_NZ","Australia",-27.32,152.2,"Climatologist Observations","Wheat","Wheat","RFD",180,"hi","APSIMv7.5","APSIM-Wheat","Hartog",3683.66087051174
+232,"Australia_NZ","Australia",-27.34,151.52,"Climatologist Observations","Wheat","Wheat","RFD",-99,"lo","APSIMv7.5","APSIM-Wheat","Hartog",3321.45883246718
+233,"Australia_NZ","Australia",-30.33,149.78,"Climatologist Observations","Wheat","Wheat","RFD",100,"hi","APSIMv7.5","APSIM-Wheat","Hartog",3394.73205557151
+234,"Australia_NZ","Australia",-33.55,116.54,"Climatologist Observations","Wheat","Wheat","RFD",100,"hi","APSIMv7.5","APSIM-Wheat","Wyallkatchem",3690.345753212
+236,"China","China",45.45,126.46,"Climatologist Observations","Wheat","Wheat","IRR",150,"hi","APSIMv7.5","APSIM-Wheat","Longmai 26",5073.24870034771
+241,"USA","USA",32.42,260.32,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",4392.89803705378
+243,"USA","USA",32.42,260.32,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",7994.87876926865
+245,"USA","USA",30.53,268.85,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",4056.14767205747
+247,"USA","USA",30.53,268.85,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",8146.59262962628
+251,"USA","USA",43.72,243.8,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",14102.2106876761
+253,"USA","USA",33.95,278.88,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",5248.86431511206
+255,"USA","USA",33.95,278.88,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",8213.9509357029
+257,"USA","USA",40,277.12,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",7154.30385319704
+259,"USA","USA",40,277.12,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10729.9825956762
+261,"USA","USA",41.53,266.35,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",6782.43114054193
+263,"USA","USA",41.53,266.35,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10029.9817610451
+265,"USA","USA",37.77,260.03,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",3362.42672724808
+267,"USA","USA",37.77,260.03,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",9147.98472547301
+273,"USA","USA",41.02,268.04,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",6664.35516569531
+275,"USA","USA",41.02,268.04,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10644.9149837896
+277,"USA","USA",46.9,263.2,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",6262.61204902369
+279,"USA","USA",46.9,263.2,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",12465.7708126764
+281,"USA","USA",34.2,280.24,"AgMERRA","Maize","Maize","RFD",200,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",6518.7751965894
+282,"USA","USA",34.2,280.24,"AgMERRA","Maize","Maize","IRR",200,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",10892.7183539759
+285,"USA","USA",36.77,240.28,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",9057.51795900258
+287,"USA","USA",39.35,258.29,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4116.75456351294
+289,"USA","USA",39.35,258.29,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",11741.5233071327
+291,"USA","USA",40.97,261.68,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4545.37729435392
+293,"USA","USA",40.97,261.68,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",11255.8579689733
+295,"USA","USA",39.73,273.72,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",7310.28772152717
+297,"USA","USA",39.73,273.72,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10803.7096570036
+299,"USA","USA",39.32,265.28,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5579.82640670217
+301,"USA","USA",39.32,265.28,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",9187.3995869438
+303,"USA","USA",43.87,268.75,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",7177.3471670284
+305,"USA","USA",43.87,268.75,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",10288.3406087118
+307,"USA","USA",37.33,280.8,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",5526.12106913002
+309,"USA","USA",37.33,280.8,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",10218.9449102135
+311,"USA","USA",43.13,270.67,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",7428.83501352201
+313,"USA","USA",43.13,270.67,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",11815.0243449681
+315,"USA","USA",35.05,270,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",4835.70883708744
+317,"USA","USA",35.05,270,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",7323.64763383581
+319,"USA","USA",41.98,262.57,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5085.02107640843
+321,"USA","USA",41.98,262.57,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",11587.3782439327
+323,"USA","USA",41.07,259.25,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4860.57107728805
+325,"USA","USA",41.07,259.25,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",13064.2786045963
+327,"USA","USA",41.3,264.1,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4754.89884071009
+329,"USA","USA",41.3,264.1,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10182.9501977738
+331,"USA","USA",40.67,270.32,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",2847.17199345343
+333,"USA","USA",40.67,270.32,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10845.0436623559
+336,"Brazil","Brazil",-22.72,312.35,"AgMERRA","Maize","Maize","IRR",70,"lo","DSSATv4.5.1.023","CERES-Maize","AG9010",5092.51375786646
+337,"Brazil","Brazil",-15.62,312.33,"AgMERRA","Maize","Maize","RFD",10,"lo","DSSATv4.5.1.023","CERES-Maize","Cargill 111S",6633.35899877267
+338,"Brazil","Brazil",-15.62,312.33,"AgMERRA","Maize","Maize","IRR",10,"lo","DSSATv4.5.1.023","CERES-Maize","Cargill 111S",7453.8314967847
+339,"USA","USA",43.57,263.27,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",4953.04409656809
+341,"USA","USA",43.57,263.27,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",11663.3941806983
+347,"USA","USA",38.75,269.63,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5119.66537057682
+349,"USA","USA",38.75,269.63,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",8225.26086326454
+351,"USA","USA",30.38,275.63,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",4393.1336278074
+353,"USA","USA",30.38,275.63,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",8333.26655096778
+355,"USA","USA",39.06,264.31,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5103.01856909203
+357,"USA","USA",39.06,264.31,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",8639.02420081455
+359,"Africa_Western","Ghana",10.02,357.62,"Local weather station","Maize","Maize","RFD",60,"lo","DSSATv4.5.1.023","CERES-Maize","Obatanpa ",2196.17817472045
+361,"Africa_Western","Ghana",10.02,357.62,"Local weather station","Maize","Maize","IRR",60,"lo","DSSATv4.5.1.023","CERES-Maize","Obatanpa ",2217.79897258138
+363,"USA","USA",41.25,283.08,"NCDC GHCN","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",7653.23371477087
+365,"USA","USA",41.25,283.08,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",11367.328495895
+369,"USA","USA",46.57,239.47,"NCDC GHCN","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",14864.0374779888
+372,"EU-15","Spain",41.66,359.12,"AgMERRA","Maize","Maize","IRR",300,"hi","DSSATv4.5.1.023","CERES-Maize","Prisma GC Avg",10337.3793824658
+379,"China","China",30.658,104.064856,"AgMERRA","Rice","Rice","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","Guichao#2 (GZ)",11530.5123943707
+381,"China","China",23.07,113.38,"AgMERRA","Rice","Rice","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","Guichao#2 (GZ)",10719.0317568592
+382,"China","China",23.07,113.38,"AgMERRA","Rice","Rice","IRR",999,"hi","DSSATv4.5.1.023","CERES-Rice","Guichao#2 (GZ)",10722.4427224285
+383,"Southeast Asia","Philippines",14.17,121.24,"AgMERRA","Rice","Rice","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","IR 64",4293.68019741607
+385,"India","India",30.9,75.8,"Local weather station","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","PR 114",4540.68317869623
+387,"India","India",30.9,75.8,"Local weather station","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","PR 114",5314.39786881734
+389,"China","China",32.06,118.8,"AgMERRA","Rice","Rice","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","S.U.63",10426.9606887868
+391,"Japan","Japan",37.9,139.02,"AgMERRA","Rice","Rice","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","Koshihikari",8575.52637814917
+392,"Japan","Japan",37.9,139.02,"AgMERRA","Rice","Rice","IRR",999,"hi","DSSATv4.5.1.023","CERES-Rice","Koshihikari",9429.38249348373
+394,"China","China",34.2,117.28,"AgMERRA","Rice","Rice","IRR",999,"hi","DSSATv4.5.1.023","CERES-Rice","Yangen#2 (XUZ) ",9645.13998071523
+395,"USA","USA",32.42,260.32,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Forrest (5)",1191.09581837752
+397,"USA","USA",32.42,260.32,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Forrest (5)",4836.8288279448
+399,"USA","USA",30.53,268.85,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 6",2414.99773744102
+401,"USA","USA",30.53,268.85,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 6",4451.74448204163
+403,"USA","USA",43.72,243.8,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 0",400.917772254773
+405,"USA","USA",43.72,243.8,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 0",4268.69744456225
+407,"USA","USA",33.95,278.88,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Cobb (8)",2886.32983702009
+409,"USA","USA",33.95,278.88,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Cobb (8)",4553.4341250031
+411,"USA","USA",40,277.12,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",2025.95934045091
+413,"USA","USA",40,277.12,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",3800.92621739396
+415,"USA","USA",41.53,266.35,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",2256.03080918669
+417,"USA","USA",41.53,266.35,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",4266.69916406455
+419,"USA","USA",37.77,260.03,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 4",1202.86598019392
+421,"USA","USA",37.77,260.03,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 4",4912.55949551205
+423,"USA","USA",41.02,268.04,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",2168.55565477142
+425,"USA","USA",41.02,268.04,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",4068.40429291553
+427,"USA","USA",46.9,263.2,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 00",1294.82224185921
+429,"USA","USA",46.9,263.2,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 00",3049.15126372655
+433,"USA","USA",36.77,240.28,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Essex (5)",5645.97977356895
+435,"USA","USA",29.65,277.68,"AgMERRA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Bragg",3973.60553437499
+436,"USA","USA",29.65,277.68,"AgMERRA","Soybeans","Soybeans","IRR",0,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Bragg",4299.57516842099
+437,"USA","USA",39.35,258.29,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 3",790.326744705131
+439,"USA","USA",39.35,258.29,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 3",4847.43872690886
+441,"USA","USA",40.97,261.68,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",1407.46763765706
+443,"USA","USA",40.97,261.68,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",3854.41756784776
+445,"USA","USA",39.73,273.72,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Williams",2401.02039602762
+447,"USA","USA",39.73,273.72,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Williams",4290.24752292681
+449,"USA","USA",39.32,265.28,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 4",1636.1497752048
+451,"USA","USA",39.32,265.28,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 4",4690.65080774645
+453,"USA","USA",43.87,268.75,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 0",1715.2086300655
+455,"USA","USA",43.87,268.75,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 0",3344.70387268438
+457,"USA","USA",37.33,280.8,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Essex (5)",1774.97960791751
+459,"USA","USA",37.33,280.8,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Essex (5)",4698.41839800167
+461,"USA","USA",43.13,270.67,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",2196.20538278087
+463,"USA","USA",43.13,270.67,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",3757.96170348502
+465,"USA","USA",35.05,270,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Forrest (5)",1298.21538732539
+467,"USA","USA",35.05,270,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Forrest (5)",4640.2263233631
+469,"USA","USA",45.59,264.09,"AgMERRA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Evans",2283.17913442906
+470,"USA","USA",45.59,264.09,"AgMERRA","Soybeans","Soybeans","IRR",0,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Evans",3039.60806798002
+471,"USA","USA",41.98,262.57,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",1463.76441398881
+473,"USA","USA",41.98,262.57,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",3947.10410136399
+475,"USA","USA",41.07,259.25,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 0",1382.78253958206
+477,"USA","USA",41.07,259.25,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 0",3404.85587838038
+479,"USA","USA",41.3,264.1,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",1363.86548206591
+481,"USA","USA",41.3,264.1,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",3736.34195270621
+485,"USA","USA",40.67,270.32,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",4416.23176248094
+489,"USA","USA",33.43,247.98,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Bragg",3471.2182953668
+491,"USA","USA",43.57,263.27,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 0",1075.07751388609
+493,"USA","USA",43.57,263.27,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 0",3414.62728238472
+495,"USA","USA",47.63,242.47,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 00",458.684118348523
+497,"USA","USA",47.63,242.47,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 00",4030.29298320714
+499,"USA","USA",38.75,269.63,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",1442.06320783953
+501,"USA","USA",38.75,269.63,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",4359.67669703818
+503,"USA","USA",30.38,275.63,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Cobb (8) - new",3547.47293211349
+505,"USA","USA",30.38,275.63,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Cobb (8) - new",4495.92925409172
+507,"USA","USA",39.06,264.31,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Williams-82(3)",1957.02770007678
+509,"USA","USA",39.06,264.31,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Williams-82(3)",4263.17608874952
+511,"USA","USA",41.25,283.08,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",2271.66113613735
+513,"USA","USA",41.25,283.08,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",3993.20428575067
+515,"USA","USA",46.57,239.47,"NCDC GHCN","Soybeans","Soybeans","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 1",470.674321196318
+517,"USA","USA",46.57,239.47,"NCDC GHCN","Soybeans","Soybeans","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 1",4179.05129484606
+523,"USA","USA",46.81,259.22,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3211.20443813345
+524,"USA","USA",46.81,259.22,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",4748.81325157273
+527,"Europe_Eastern","Ukraine",46.484,30.732,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",4146.74310870809
+528,"Europe_Eastern","Ukraine",46.484,30.732,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",4435.67966919041
+529,"USA","USA",44.37,259.65,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3053.27140869672
+530,"USA","USA",44.37,259.65,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3655.98986066963
+531,"USA","USA",45.56,265.84,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3329.80773069844
+532,"USA","USA",45.56,265.84,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3617.63818323522
+533,"Canada","Canada",50.29,252.2,"AgMERRA","Wheat","Wheat","RFD",82,"lo","DSSATv4.5.1.023","CERES-Wheat","Manitou",1566.08087462673
+539,"USA","USA",32.42,260.32,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Southern Plains",6837.57561134489
+541,"USA","USA",32.42,260.32,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Southern Plains",7692.04680363101
+543,"EU-15","Spain",39,358.14,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",4786.84440156511
+544,"EU-15","Spain",39,358.14,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",8164.76099896011
+545,"EU-15","Spain",38.878545,353.029817,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",5424.79620663769
+546,"EU-15","Spain",38.878545,353.029817,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",6912.00804325313
+547,"Argentina","Argentina",-37.75,301.7,"Local weather station","Wheat","Wheat","RFD",120,"hi","DSSATv4.5.1.023","CERES-Wheat","Manitou",3598.38935294379
+549,"Argentina","Argentina",-37.75,301.7,"Local weather station","Wheat","Wheat","IRR",120,"hi","DSSATv4.5.1.023","CERES-Wheat","Manitou",4487.95979721114
+551,"China","China",39.9,116.41,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","F.K.#2 (BJ)",5545.38215357092
+553,"China","China",30.658,104.064856,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","M.Y.#11 (CD)",6087.64964282738
+554,"China","China",30.658,104.064856,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","M.Y.#11 (CD)",10518.5298146628
+555,"India","India",28.38,77.12,"NCDC GHCN","Wheat","Wheat","RFD",120,"hi","DSSATv4.5.1.023","CERES-Wheat","HD2009",2990.48107335585
+557,"India","India",28.38,77.12,"NCDC GHCN","Wheat","Wheat","IRR",120,"hi","DSSATv4.5.1.023","CERES-Wheat","HD2009",3686.32517072658
+559,"Pakistan","Pakistan",31.82,70.92,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",6429.99596680563
+560,"Japan","Japan",33.59,130.4,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Norin 61",5662.50853736072
+561,"Japan","Japan",33.59,130.4,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Norin 62",5957.85453293317
+565,"USA","USA",39.35,258.29,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",8320.30700935162
+567,"Australia_NZ","Australia",-34.29,146.04,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",4972.00520101091
+572,"USA","USA",35.47,262.48,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Vona",6612.65262756386
+573,"USA","USA",35.47,262.48,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Vona",7629.66083155185
+574,"EU-15","U.K.",51.82,359.64,"AgMERRA","Wheat","Wheat","RFD",120,"hi","DSSATv4.5.1.023","CERES-Wheat","Maris Funden",6268.78985114156
+576,"Africa_Northern","Egypt",31.09,30.95,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",3153.27967068706
+577,"Africa_Northern","Egypt",31.09,30.95,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",7144.57349370622
+578,"EU-15","Spain",37.38,354,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",5625.34244161366
+579,"EU-15","Spain",37.38,354,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",6555.02563725399
+580,"USA","USA",39.06,264.31,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Scout66",4207.84875648505
+582,"USA","USA",39.06,264.31,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Scout66",4058.60889309635
+584,"USA","USA",46.57,239.47,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Pacific",3975.28657624737
+586,"USA","USA",37.77,260.03,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",4801.18922888914
+588,"USA","USA",37.77,260.03,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",7885.19760194397
+590,"USA","USA",41.07,259.25,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",5159.89533947183
+592,"USA","USA",41.07,259.25,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",6577.62895394092
+594,"China","China",39.9,116.41,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","Jingza#6 (BJ)",3912.73543077486
+595,"China","China",39.9,116.41,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","Jingza#6 (BJ)",4255.62022855069
+596,"EU-15","Spain",41.62,0.62,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","ANSA",546.227314973652
+597,"EU-15","Spain",41.62,0.62,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","ANSA",8437.84886717122
+598,"China","China",32.06,118.8,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","Suyu#1 (NJ)",4043.44097369225
+599,"China","China",32.06,118.8,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","Suyu#1 (NJ)",4182.0625674436
+600,"China","China",34.2,117.28,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","Suyu#1 (NJ)",6412.44632725344
+601,"China","China",34.2,117.28,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","Suyu#1 (NJ)",7042.77597587655
+602,"Southeast Asia","Philippines",18.05,120.59,"AgMERRA","Rice","Rice","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","IR 64",4318.20665251773
+604,"Pakistan","Pakistan",32.93,73.72,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",4663.57894141094
+605,"Pakistan","Pakistan",32.93,73.72,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",6275.11528909118
+606,"Pakistan","Pakistan",28.63,70.65,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",4663.57894141094
+607,"Pakistan","Pakistan",28.63,70.65,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",6275.11528909118
+608,"Japan","Japan",43.8,143.9,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Haruminori",1621.83003294371
+609,"Japan","Japan",43.8,143.9,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Haruminori",2093.43892821339
+611,"Japan","Japan",39.7,141.15,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Nambu-Komugi",4895.27204635804
+612,"China","China",32.06,118.8,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Yanmai#5 (NAN)",9905.03316703294
+613,"China","China",32.06,118.8,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Yanmai#5 (NAN)",10037.6380909919
+614,"Australia_NZ","Australia",-30.33,149.78,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",2640.49245124836
+615,"Australia_NZ","Australia",-30.33,149.78,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",2658.36351167449
+616,"China","China",34.26,108.94,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Y.M.#2 (XA)",7630.77247854136
+618,"China","China",34.2,117.28,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Jinan#13 (XUZ)",6235.95872558818
+619,"China","China",34.2,117.28,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Jinan#13 (XUZ)",9431.74079548305
+620,"Russia","Russia",46.37,48.08,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",4157.53274758243
+621,"Russia","Russia",46.37,48.08,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",7081.57543290506
+622,"Europe_Eastern","Belarus",52,24.2,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",3957.09545176189
+623,"Europe_Eastern","Belarus",52,24.2,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",4201.80786992244
+624,"Russia","Russia",53.24,34.37,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3363.23667108817
+625,"Russia","Russia",53.24,34.37,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3686.49600439073
+626,"Central Asia","Kazakhstan",49.83,73.17,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",3005.90381782633
+627,"Central Asia","Kazakhstan",49.83,73.17,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4837.45121229823
+628,"Europe_Eastern","Ukraine",49.99,36.23,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",6600.74246044358
+629,"Europe_Eastern","Ukraine",49.99,36.23,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",7191.13310015162
+630,"Russia","Russia",51.73,36.19,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",6692.7841741126
+631,"Russia","Russia",51.73,36.19,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",6945.65108515372
+632,"EU-12","Lithuania",55.17,23.88,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3511.10639550342
+633,"EU-12","Lithuania",55.17,23.88,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3931.71673272504
+634,"Europe_Eastern","Belarus",53.9,27.57,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3426.64637541044
+635,"Europe_Eastern","Belarus",53.9,27.57,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3673.16489818377
+636,"Central Asia","Kazakhstan",49.9,57.9,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4574.74911471663
+637,"Central Asia","Kazakhstan",49.9,57.9,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4708.26975716822
+638,"Central Asia","Kazakhstan",50,55.6,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",3048.27712423481
+639,"Central Asia","Kazakhstan",50,55.6,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",7183.66826549303
+640,"Central Asia","Kazakhstan",54.16,69.94,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",3774.64936183663
+641,"Central Asia","Kazakhstan",54.16,69.94,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4440.21133301409
+642,"Europe_Eastern","Ukraine",50.25,28.66,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Ostka",4735.60523300329
+643,"Europe_Eastern","Ukraine",50.25,28.66,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Ostka",5012.98481038074
+644,"Central Asia","Kazakhstan",51.17,71.42,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",3819.47760662469
+645,"Central Asia","Kazakhstan",51.17,71.42,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4341.93668979235
+646,"Russia","Russia",57.63,39.89,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3493.23768623141
+647,"Russia","Russia",57.63,39.89,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3657.06741046416
+648,"Russia","Russia",47.22,39.71,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",3321.95044213631
+649,"Russia","Russia",47.22,39.71,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",4259.01151951767
+650,"Europe_Eastern","Ukraine",50.25,28.66,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 9",6944.80974524972
+651,"Europe_Eastern","Ukraine",50.25,28.66,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 10",7683.17105112828
+654,"Europe_Eastern","Belarus",52,24.2,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Krymskaya",3723.79588115806
+655,"Europe_Eastern","Belarus",52,24.2,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","77",4402.29579838331
+659,"Australia_NZ","Australia",-34.53,138.73,"AgMERRA","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",4449.57798114015
+660,"Australia_NZ","Australia",-34.53,138.73,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",4464.86858916948
+669,"USA","USA",30.53,268.85,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6405.86165359511
+671,"USA","USA",30.53,268.85,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6385.43233084036
+673,"USA","USA",40,277.12,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",5230.10826807113
+674,"USA","USA",40,277.12,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",5150.36102801216
+679,"USA","USA",33.95,278.88,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6872.96873895455
+680,"USA","USA",33.95,278.88,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6918.19581769173
+693,"Africa_Northern","Egypt",24.07,32.92,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak65",7457.44879991261
+694,"Africa_Northern","Egypt",31.33,27.22,"AgMERRA","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak65",6445.16336480278
+701,"USA","USA",46.9,263.2,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",2832.69822397154
+702,"USA","USA",46.9,263.2,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3202.37453491476
+707,"USA","USA",36.77,240.28,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","India ",3462.30432773604
+713,"EU-15","Greece",39.36666667,21.91666667,"AgMERRA","Maize","Maize","RFD",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3183",986.519647245727
+714,"EU-15","Greece",39.36666667,21.91666667,"AgMERRA","Maize","Maize","IRR",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3183",5517.84995137199
+715,"EU-15","Greece",40.65,22.06666667,"AgMERRA","Maize","Maize","RFD",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3183",994.722513499352
+716,"EU-15","Greece",40.65,22.06666667,"AgMERRA","Maize","Maize","IRR",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3183",4442.20068045541
+717,"EU-15","Greece",41.11666667,24.88333333,"AgMERRA","Maize","Maize","RFD",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3707",1203.00125706193
+718,"EU-15","Greece",41.11666667,24.88333333,"AgMERRA","Maize","Maize","IRR",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3707",4574.55599915728
+719,"USA","USA",39.73,273.72,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",4443.71716864084
+720,"USA","USA",39.73,273.72,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",4394.23525838615
+725,"USA","USA",37.33,280.8,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",5410.69082423029
+726,"USA","USA",37.33,280.8,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",5593.19462144255
+731,"USA","USA",35.05,270,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6704.55105036944
+732,"USA","USA",35.05,270,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6793.96971842338
+741,"USA","USA",33.43,247.98,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Southern Plains",7064.34061039051
+745,"EU-12","Poland",51.23,22.57,"AgMERRA","Maize","Maize","RFD",50,"lo","DSSATv4.5.1.023","CERES-Maize","Sweet Corn",7102.52296871784
+749,"USA","USA",47.63,242.47,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Pacific",4176.85010382779
+753,"USA","USA",30.38,275.63,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",7160.40418948297
+754,"USA","USA",30.38,275.63,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",7552.34755503178
+757,"USA","USA",41.25,283.08,"NCDC GHCN","Wheat","Wheat","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6711.40112231698
+759,"USA","USA",41.25,283.08,"NCDC GHCN","Wheat","Wheat","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6682.99131618369
+856,"South Asia","Bangladesh",23.2,89.33,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6627.74780003051
+857,"South Asia","Bangladesh",23.2,89.33,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8448.7710724547
+858,"South Asia","Bangladesh",23.2,89.33,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8303.96103911154
+859,"South Asia","Bangladesh",22.78,89.53,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6568.74353122556
+860,"South Asia","Bangladesh",22.78,89.53,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8898.70402494207
+861,"South Asia","Bangladesh",22.78,89.53,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8176.99243967371
+862,"South Asia","Bangladesh",22.87,91.1,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6424.64924688401
+863,"South Asia","Bangladesh",22.87,91.1,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",6673.72514743524
+864,"South Asia","Bangladesh",22.87,91.1,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7761.42373580093
+865,"South Asia","Bangladesh",24.73,90.42,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",5601.12126711746
+866,"South Asia","Bangladesh",24.73,90.42,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",6638.19544451192
+867,"South Asia","Bangladesh",24.73,90.42,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8336.36817699829
+868,"South Asia","Bangladesh",22.33,90.33,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6455.57902291051
+869,"South Asia","Bangladesh",22.33,90.33,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",9232.63427943803
+870,"South Asia","Bangladesh",22.33,90.33,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8373.23446145563
+871,"South Asia","Bangladesh",25.73,89.27,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7403.37017121474
+872,"South Asia","Bangladesh",25.73,89.27,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8581.5106295219
+873,"South Asia","Bangladesh",25.73,89.27,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8581.5106295219
+874,"South Asia","Bangladesh",22.63,92.15,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6192.52362035991
+875,"South Asia","Bangladesh",22.63,92.15,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8006.93324330333
+876,"South Asia","Bangladesh",22.63,92.15,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",6316.87478734225
+877,"South Asia","Bangladesh",24.3,91.73,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6358.19308500594
+878,"South Asia","Bangladesh",24.3,91.73,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",7920.5596684772
+879,"South Asia","Bangladesh",24.3,91.73,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7669.81302949974
+880,"South Asia","Bangladesh",24.9,91.88,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6261.29236894697
+881,"South Asia","Bangladesh",24.9,91.88,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8213.37285013983
+882,"South Asia","Bangladesh",24.9,91.88,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7955.01596442241
+883,"South Asia","Bangladesh",24.25,89.83,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7151.66387249448
+884,"South Asia","Bangladesh",24.25,89.83,"AgMERRA","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",7465.19231407544
+885,"South Asia","Bangladesh",24.25,89.83,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8288.75677788331
+894,"Central America and Caribbean","Panama",7.95,279.58,"ETESA (National Met Service)","Maize","Maize","RFD",150,"hi","DSSATv4.5.1.023","CERES-Maize","PIO X 304c B",5479.56939364232
+896,"Central America and Caribbean","Panama",7.95,279.58,"ETESA (National Met Service)","Maize","Maize","RFD",150,"hi","DSSATv4.5.1.023","CERES-Maize","PIO X 304c B",4859.97727397117
+898,"South Asia","Bangladesh",22.35,91.82,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6523.34817744193
+899,"South Asia","Bangladesh",22.35,91.82,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",9081.65431124554
+900,"South Asia","Bangladesh",22.35,91.82,"BMD","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7852.12434945521
+901,"South Asia","Bangladesh",23.43,91.18,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6542.20358366111
+902,"South Asia","Bangladesh",23.43,91.18,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",6289.66942661914
+903,"South Asia","Bangladesh",23.43,91.18,"BMD","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7654.96510356044
+904,"South Asia","Bangladesh",23.78,90.38,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6446.94409014652
+905,"South Asia","Bangladesh",23.78,90.38,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8962.78162920412
+906,"South Asia","Bangladesh",23.78,90.38,"BMD","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8515.22317225003
+907,"South Asia","Bangladesh",25.65,88.68,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7986.55035181289
+908,"South Asia","Bangladesh",25.65,88.68,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",9162.41499101539
+909,"South Asia","Bangladesh",25.65,88.68,"BMD","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8914.9088737487
+910,"South Asia","Bangladesh",23.93,89.85,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7120.19336245529
+911,"South Asia","Bangladesh",23.93,89.85,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8316.75282882417
+912,"South Asia","Bangladesh",23.93,89.85,"BMD","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8437.48572863534
+913,"South Asia","Bangladesh",24.15,89.03,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7277.25168612798
+914,"South Asia","Bangladesh",24.15,89.03,"BMD","Rice","Rice","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8456.20387290145
+915,"South Asia","Bangladesh",24.15,89.03,"BMD","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8166.85478991774
+916,"USA","USA",34.483,267.3,"NCDC","Maize","Maize","RFD",170,"hi","DSSATv4.5.1.023","CERES-Maize","McCurdy 88",9074.37358709929
+917,"USA","USA",34.65,266.783,"NCDC","Maize","Maize","RFD",170,"hi","DSSATv4.5.1.023","CERES-Maize","McCurdy 88",7636.2363157573
+918,"USA","USA",34.75,267.6,"NCDC","Maize","Maize","RFD",170,"hi","DSSATv4.5.1.023","CERES-Maize","McCurdy 88",8064.25574298174
+922,"USA","USA",42.75,265.5,"State Climatologist Observations","Maize","Maize","RFD",140,"hi","RZWQM-DSSAT4.0","CERES-Maize, CROPGRO","Dekalb",6184.77308548965
+923,"USA","USA",42.75,265.5,"State Climatologist Observations","Soybeans","Soybeans","RFD",140,"hi","RZWQM-DSSAT4.0","CERES-Soybean, CROPGRO","Dekalb",2887.84380138669
+924,"USA","USA",47.7667,255.7333,"State Climatologist Observations","Wheat","Wheat","RFD",100,"hi","RZWQM-DSSAT4.0","CERES-Wheat","Missing",1879.08146514247
+925,"USA","USA",40.45,255.36,"State Climatologist Observations","Maize","Maize","IRR",146,"hi","RZWQM-DSSAT4.0","CERES-Maize","Dekalb",8144.32586916273
+926,"China","China",38.267,109.783,"State Climatologist Observations","Maize","Maize","RFD",264,"hi","DSSATv4.0.1.0","CERES-Maize","Shandan 911",3571.02065035147
+927,"China","China",38.267,109.783,"State Climatologist Observations","Maize","Maize","IRR",264,"hi","DSSATv4.0.1.0","CERES-Maize","Shandan 911",11087.3113070036
+930,"EU-15","Italy",41.02,17.29,"AgMERRA","Maize","Maize","RFD",285,"hi","DSSATv4.0.1.0","CERES-Maize","Maltus",1246.73087401375
+931,"EU-15","Italy",41.02,17.29,"AgMERRA","Maize","Maize","IRR",285,"hi","DSSATv4.0.1.0","CERES-Maize","Maltus",7132.10264251761
+932,"Japan","Japan",36.17,139.35,"Mesh Agro-meteorological data from NARO","Rice","Rice","IRR",75,"lo","SPRiGS","SPRiGS is based on ORYZA2000 and SIMRIW","Koshihikari",4989.32654055881
+933,"Argentina","Argentina",-33.11,295.84,"SMN","Wheat","Wheat","RFD",44,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",2312.25125183291
+934,"Argentina","Argentina",-33.11,295.84,"SMN","Maize","Maize","RFD",84,"lo","DSSATv4.0.2","CERES-Maize","DK 752",8291.56545823809
+935,"Argentina","Argentina",-33.11,295.84,"SMN","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","DM 4800",4749.94409714669
+936,"Argentina","Argentina",-38.33,299.67,"SMN","Wheat","Wheat","RFD",37,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",4849.191744638
+937,"Argentina","Argentina",-38.33,299.67,"SMN","Maize","Maize","RFD",38,"lo","DSSATv4.0.2","CERES-Maize","DK 688",7752.39323747654
+938,"Argentina","Argentina",-38.33,299.67,"SMN","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","A3901",3056.32409286599
+939,"Argentina","Argentina",-37.75,301.7,"INTA","Wheat","Wheat","RFD",37,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",5156.67207552737
+940,"Argentina","Argentina",-37.75,301.7,"INTA","Maize","Maize","RFD",38,"lo","DSSATv4.0.2","CERES-Maize","DK 688",9533.60639890037
+941,"Argentina","Argentina",-37.75,301.7,"INTA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","A3901",3750.83546620375
+942,"Argentina","Argentina",-32.68,297.88,"INTA","Wheat","Wheat","RFD",37,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",3300.10626839978
+943,"Argentina","Argentina",-32.68,297.88,"INTA","Maize","Maize","RFD",84,"lo","DSSATv4.0.2","CERES-Maize","DK 752",8379.46114446208
+944,"Argentina","Argentina",-32.68,297.88,"INTA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","DM 4800",4050.37416001209
+945,"Argentina","Argentina",-33.93,299.45,"INTA","Wheat","Wheat","RFD",47,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",4075.26269128377
+946,"Argentina","Argentina",-33.93,299.45,"INTA","Maize","Maize","RFD",84,"lo","DSSATv4.0.2","CERES-Maize","DK 752",9168.23295030898
+947,"Argentina","Argentina",-33.93,299.45,"INTA","Soybeans","Soybeans","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","DM 4800",3278.04641282488
+950,"South Asia","Sri Lanka",7.517,80.45,"State Agrometeorological Station","Rice","Rice","IRR",90,"lo","DSSATv4.5.1.023","CERES-Rice","BG300",4560.49352109561
+951,"South Asia","Sri Lanka",7.517,80.45,"State Agrometeorological Station","Rice","Rice","IRR",90,"lo","DSSATv4.5.1.023","CERES-Rice","BG300",5643.84175919802
+954,"South Korea","Republic of Korea",37.267,126.983,"Suwon weather station","Soybeans","Soybeans","RFD",30,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Sinpaldal",2739.55044619641
+955,"South Korea","Republic of Korea",37.267,126.983,"Suwon weather station","Maize","Maize","RFD",174,"hi","DSSATv4.5.1.023","CERES-Maize","Gwangpyeongok",5268.98222512703
+956,"Brazil","Brazil",-6.4,320.73,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",7302.79317189479
+957,"Brazil","Brazil",-6.4,320.73,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",8053.45808447471
+959,"USA","USA",42.79,263.83,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4530.19926015275
+962,"USA","USA",41.64,264.21,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5822.73675439711
+963,"USA","USA",41.64,264.21,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",9029.43684827886
+965,"Brazil","Brazil",-9.39,319.49,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",3800.29700055364
+966,"Brazil","Brazil",-9.39,319.49,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",7058.04878770291
+968,"USA","USA",42.4,265.37,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",6522.88043785174
+969,"USA","USA",42.4,265.37,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",9061.46812055761
+971,"Brazil","Brazil",-5.09,317.2,"AgMERRA","Maize","Maize","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",7026.3287353143
+972,"Brazil","Brazil",-5.09,317.2,"AgMERRA","Maize","Maize","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",7153.09350619868
+1026,"China","China",36.75,119.08,"AgMERRA","Maize","Maize","RFD",180,"hi","APSIM 5.3","APSIM-Maize","Zhengdan 958",7735.90417551102
+1028,"EU-15","Belgium",51.28,5.45,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","Maize","Maize","RFD",150,"hi","AquaCROPv4.0","Missing","Lacta",7935.03742290463
+1029,"EU-15","Belgium",50.77,4.6,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","Maize","Maize","RFD",150,"hi","AquaCROP","Missing","Tripoli",9641.18181771821
+1030,"EU-15","Belgium",50.77,4.6,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","Wheat","Wheat","RFD",150,"hi","AquaCROP","Missing","Potenzial",10807.5407798012
+1031,"EU-15","Belgium",50.77,4.6,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","Wheat","Wheat","RFD",150,"hi","Sirius","Missing","Potenzial",9814.59855460973
+1032,"EU-15","Belgium",50.83,3.85,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","Wheat","Wheat","RFD",-99,"lo","AquaCROP","Missing","Missing",10746.6219803339
+1033,"Africa_Southern","Malawi",-15.47,35.23,"AgMERRA","Maize","Maize","RFD",48,"lo","DSSATv4.5.0.0","CERES-Maize","DK8033",2342.83931580547
+1034,"Africa_Southern","Malawi",-15.47,35.23,"AgMERRA","Maize","Maize","RFD",406,"hi","DSSATv4.5.0.0","CERES-Maize","DK8033",2615.4769584991
+1035,"Africa_Southern","Malawi",-15.47,35.23,"AgMERRA","Maize","Maize","RFD",92,"hi","DSSATv4.5.0.0","CERES-Maize","DK8033",4415.66849933194
+1036,"Africa_Southern","Malawi",-15.47,35.23,"AgMERRA","Maize","Maize","RFD",143.5,"hi","DSSATv4.5.0.0","CERES-Maize","DK8033",3503.63972053562
+1038,"Brazil","Brazil",-21.11,311.07,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",151.586648951266
+1039,"Brazil","Brazil",-15.78,312.07,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",138.21448203364
+1040,"Brazil","Brazil",-14.4,303.55,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",127.00505284586
+1041,"Brazil","Brazil",-23.31,308.87,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",97.6328301601635
+1042,"Brazil","Brazil",-9.66,324.3,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",106.818555676485
+1043,"Brazil","Brazil",-19.75,308.82,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",88.8497173499604
+1044,"Brazil","Brazil",-22.11,308.62,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",143.172253029246
+1045,"Brazil","Brazil",-17.8,309.09,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",109.375214157836
+1046,"Brazil","Brazil",-22.71,312.5,"University of Sao Paulo - ESALQ","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",140.616120469263
+1047,"Brazil","Brazil",-21.48,312.45,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",128.976225460738
+1048,"Brazil","Brazil",-19.73,312.05,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",91.4512543038625
+1049,"Brazil","Brazil",-20.41,310.02,"INMET","Sugarcane","Sugarcane","RFD",120,"hi","DSSATv4.5.1.023","DSSAT/Canegro and APSIM-Sugar","RB867515",152.682683885751
+1051,"India","India",28.2,77.48,"State Climatologist Observations","Wheat","Wheat","IRR",100,"hi","APSIMv6.0","Wheat module","Sujata",3282.42783392179
+1053,"India","India",23.9,79.57,"State Climatologist Observations","Wheat","Wheat","IRR",100,"hi","APSIMv6.0","Wheat module","Sujata",3006.83167778128
+1054,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",126.5030172,"hi","DSSATv4.5","CERES-Rice","Bg 358",6342.49362452209
+1055,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",126.5030172,"hi","DSSATv4.5","CERES-Rice","Bg 357",7237.70483281782
+1056,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",103.5024686,"hi","DSSATv4.5","CERES-Rice","Bg 357",5862.6969737309
+1057,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",97.75233144,"hi","DSSATv4.5","CERES-Rice","Bg 300",5735.15511588522
+1058,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",44.46772724,"lo","DSSATv4.5","CERES-RIce","Bg 357",5224.36418973907
+1059,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",90.08548191,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",7048.62042868283
+1060,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",103.5024686,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",9777.08400406971
+1061,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 357",5486.22836378829
+1062,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 358",5483.32272920248
+1063,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",109.2526057,"hi","DSSATv4.5","CERES-Rice","Bg 357",5869.54447072247
+1064,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",109.2526057,"hi","DSSATv4.5","CERES-Rice","Bg 300",5623.89549873527
+1065,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 357",6625.59512229623
+1066,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 358",5203.31100651147
+1067,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 358",4700.51543429769
+1068,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",9107.81282387149
+1069,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",56.351344,"lo","DSSATv4.5","CERES-Rice","Bg 358",5765.61481212079
+1070,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",92.00219429,"hi","DSSATv4.5","CERES-Rice","Bg 357",5683.78900800222
+1071,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",-99,"lo","DSSATv4.5","CERES-Rice","Bg 357",6128.80909136741
+1072,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",86.25205715,"lo","DSSATv4.5","CERES-Rice","Bg 357",5586.84019335388
+1073,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",115.0027429,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",8747.57696210901
+1074,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",99.67287724,"hi","DSSATv4.5","CERES-Rice","Bg 300",5558.4980099899
+1075,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",99.67287724,"hi","DSSATv4.5","CERES-Rice","Bg 352",5642.12190199429
+1076,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 450",7964.96983696433
+1078,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",115.0027429,"hi","DSSATv4.5","CERES-Rice","Bg 352",6902.45615762019
+1079,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",109.2526057,"hi","DSSATv4.5","CERES-Rice","Bg 450",6816.75723623434
+1080,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",92.00219429,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",5790.15834966377
+1081,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",103.5024686,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",7914.38930552314
+1082,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",102.2246603,"hi","DSSATv4.5","CERES-Rice","Bg 357",5998.6479190175
+1083,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",122.6695924,"hi","DSSATv4.5","CERES-Rice","Bg 358",5750.8893903465
+1084,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","Rice","Rice","IRR",108.1025783,"hi","DSSATv4.5","CERES-Rice","Bg 358",5329.91423460988
+1105,"Russia","Russia",59.35,30.13,"www.meteo.ru, www.rp5.ru","Wheat","Wheat","RFD",45,"lo","AGROTOOLv3.5","Missing","Darja",2288.19648439864
+1106,"Russia","Russia",51.5,46,"www.meteo.ru, www.rp5.ru","Wheat","Wheat","RFD",60,"lo","AGROTOOLv3.5","Missing","Mironovskaja 78",2113.31933146047
+1107,"Russia","Russia",53.21,83.45,"www.meteo.ru, www.rp5.ru","Wheat","Wheat","RFD",30,"lo","AGROTOOLv3.5","Missing","Altajskaja 100",1576.01909799226
+1122,"India","India",22.19,87.19,"AgMERRA","Rice","Rice","IRR",120,"hi","DSSATv4.5","CERES-Rice","Swarna",6128.29935828376
+1126,"Pakistan","Pakistan",31.25,73.06,"University of Agriculture Faisalabad, Climatologist Observations","Rice","Rice","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","Basmati-2000",4162.90344400082
+1127,"Pakistan","Pakistan",31.25,73.06,"University of Agriculture Faisalabad, Climatologist Observations","Wheat","Wheat","IRR",220,"hi","DSSATv4.5.1.023","CERES-Wheat","Lasani-2008",5175.9636870179
+1130,"China","China",39.43,122.57,"State Climatologist Observations","Maize","Maize","IRR",100,"hi","APSIMv7.5","MAIZE","Late-maturing",8984.51342677519
+5,"India","India",23.8,79.8,"IITM","c3","c3","RFD",-99,"lo","GLAMv2","GLAM-GNUT","Somnath and GG 20",479.395611956477
+10,"India","India",22.19,87.19,"AgMERRA","c3","c3","IRR",100,"hi","DSSATv4.5","CERES-Rice","IR 36",3786.16852011266
+11,"India","India",22.19,87.19,"AgMERRA","c3","c3","IRR",30,"lo","DSSATv4.5","CROPGRO-Peanut","AK 12-24",1683.65422072605
+12,"India","India",11,77,"TNAU Observatory","c3","c3","IRR",150,"hi","DSSATv4.5.1.023","CERES-RICE","CORH3",5696.83089159793
+13,"India","India",11,79.3,"TNAU Observatory/AgMERRA","c3","c3","IRR",-99,"lo","DSSATv4.5.1.023","CERES-Rice","Missing",4477.53241857786
+16,"India","India",28.2,77.48,"State Climatologist Observations","c3","c3","IRR",100,"hi","APSIMv6.0","APSIM-Wheat","Sujata",3282.42783392179
+17,"India","India",14.68,77.62,"AgMERRA","c3","c3","RFD",18,"lo","DSSATv4.5.1.023","PeanutGro","TMV2",971.140014491795
+18,"EU-15","Belgium",50.583,4.691,"AgMERRA","c3","c3","RFD",-99,"lo","STICSv6.9","Missing","Julius",8867.36284128544
+19,"South Korea","Republic of Korea",37.267,126.983,"AgMERRA","c3","c3","RFD",60,"lo","DSSATv4.5.1.023","CERES-Barley","Olbori",4834.07457149676
+20,"South Korea","Republic of Korea",35.483,128.733,"AgMERRA","c3","c3","RFD",60,"lo","DSSATv4.5.1.023","CERES-Barley","Albori",5378.13166059352
+21,"South Korea","Republic of Korea",35.817,127.15,"AgMERRA","c3","c3","RFD",48,"lo","DSSATv4.5.1.023","CERES-Barley","Saessalbori",5878.05882893378
+22,"South Korea","Republic of Korea",35.15,128.033,"AgMERRA","c3","c3","RFD",65,"lo","DSSATv4.5.1.023","CERES-Barley","Samdobori",6310.46013417485
+23,"South America_Southern","Bolivia",-17.11,296.75833,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4934.27587607829
+25,"South America_Southern","Bolivia",-17.11,296.75833,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",8326.97406412893
+26,"South America_Southern","Bolivia",-16.75,297.5,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",5122.07022904248
+28,"South America_Southern","Bolivia",-16.75,297.5,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",7983.78977180605
+29,"South America_Southern","Bolivia",-16.81667,296.51667,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4925.95998163442
+31,"South America_Southern","Bolivia",-16.81667,296.51667,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",7257.03805345782
+32,"South America_Southern","Bolivia",-17.6333,297.76667,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4636.05741940816
+34,"South America_Southern","Bolivia",-17.6333,297.76667,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",7938.65437602756
+35,"South America_Southern","Bolivia",-17.25,296.15917,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4831.65946422557
+37,"South America_Southern","Bolivia",-17.25,296.15917,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",7335.59039172024
+38,"South America_Southern","Bolivia",-15.7,296.9,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CROPGRO-Soybean","M Group 10",4888.58848857345
+40,"South America_Southern","Bolivia",-15.7,296.9,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.0.2.0","CERES-Rice","BR11",5791.5043137346
+41,"Canada","Canada",50.257,252.264,"Environment Canada","c3","c3","RFD",7,"lo","DSSATv4.0, Modified","CERES-Wheat","Lillian",2357.51422549158
+42,"Canada","Canada",50.257,252.264,"Environment Canada","c3","c3","RFD",38,"lo","DSSATv4.0, Modified","CERES-Wheat","Lillian",3396.18708924357
+46,"Middle East","Iran",37.25,55.17,"AgMERRA","c3","c3","RFD",0,"lo","SSM-Chickpea (Soltani & Sinclair, 2012)","Missing","Hashem ",1737.61552259538
+47,"Middle East","Iran",37.47,57.32,"AgMERRA","c3","c3","RFD",0,"lo","SSM-Chickpea (Soltani & Sinclair, 2012)","Missing","Jam",922.737669694516
+48,"Middle East","Iran",38.13,46.28,"AgMERRA","c3","c3","RFD",0,"lo","SSM-Chickpea (Soltani & Sinclair, 2012)","Missing","Jam",1199.32502913951
+49,"Middle East","Iran",36.85,54.27,"Local IRIMO weather station ","c3","c3","RFD",100,"hi","SSM-Wheat (Soltani & Sinclair, 2012)","Missing","Kohdasht ",3908.02213073914
+50,"Middle East","Iran",36.85,54.27,"Local IRIMO weather station ","c3","c3","IRR",150,"hi","SSM-Wheat (Soltani & Sinclair, 2012)","Missing","Tajan",6021.92735618948
+51,"Middle East","Iran",36.85,54.27,"Local IRIMO weather station ","c3","c3","IRR",0,"lo","SSM-Soybean  (Soltani & Sinclair, 2012)","Missing","Sahar",3842.40923346346
+52,"USA","USA",33.058,247.952,"AgMERRA","c3","c3","IRR",393.1,"hi","APSIMv7.4","APSIM-Wheat","Yecora",4739.92407686962
+60,"China","China",32,118.6,"AgMERRA","c3","c3","IRR",999,"hi","MCWLA-Ricev2.0","Missing","Missing",8383.98359125503
+61,"EU-15","The Netherlands",51.967,5.633,"AgMERRA","c3","c3","RFD",999,"hi","MCWLA-Wheatv2.0","Missing","Missing",6719.53343139839
+96,"EU-15","Italy",43.767,11.217,"Local weather station","c3","c3","RFD",0,"lo","Sirius Qualityv2","Missing","Creso",3934.94698666504
+97,"EU-15","Italy",43.767,11.217,"Local weather station","c3","c3","RFD",60,"lo","Sirius Qualityv2","Missing","Creso",6077.82915047374
+98,"EU-15","Italy",43.767,11.217,"Local weather station","c3","c3","RFD",120,"hi","Sirius Qualityv2","Missing","Creso",6821.18211131734
+99,"EU-15","Italy",43.767,11.217,"Local weather station","c3","c3","RFD",180,"hi","Sirius Qualityv2","Missing","Creso",7027.23638144541
+100,"EU-15","Italy",43.767,11.217,"Local weather station","c3","c3","RFD",0,"lo","Sirius Qualityv2","Missing","Creso",3888.47570871219
+101,"EU-15","Italy",43.767,11.217,"Local weather station","c3","c3","RFD",60,"lo","Sirius Qualityv2","Missing","Creso",5792.81394212418
+102,"EU-15","Italy",43.767,11.217,"Local weather station","c3","c3","RFD",120,"hi","Sirius Qualityv2","Missing","Creso",6325.59989952239
+103,"EU-15","Italy",43.767,11.217,"Local weather station","c3","c3","RFD",180,"hi","Sirius Qualityv2","Missing","Creso",6447.32112409946
+104,"EU-15","Italy",43.75,11.35,"Local weather station","c3","c3","RFD",999,"hi","VITE-model","Missing","Sangiovese",2872.74231379065
+105,"EU-15","Italy",45.36,11.13,"Local weather station","c3","c3","RFD",130,"hi","Sirius Qualityv2","Missing","Biensur",7192.63577143527
+106,"EU-15","Italy",45.36,11.13,"Local weather station","c3","c3","RFD",160,"hi","Sirius Qualityv2","Missing","Biensur",7358.69765952918
+107,"EU-15","Italy",45.36,11.13,"Local weather station","c3","c3","RFD",200,"hi","Sirius Qualityv2","Missing","Biensur",7374.61339030695
+108,"EU-15","Italy",45.36,11.13,"Local weather station","c3","c3","RFD",200,"hi","Sirius Qualityv2","Missing","Biensur",7254.12900078318
+109,"EU-15","Austria",48.23,16.57,"Local weather station","c3","c3","RFD",100,"hi","CropSystv3.04.08","Missing","Capo",3679.14268048771
+110,"EU-15","Austria",48.23,16.57,"Local weather station","c3","c3","RFD",100,"hi","CropSystv3.04.08","Missing","Capo",3246.00752010315
+113,"EU-15","Austria",46.95,15.82,"Local weather station","c3","c3","RFD",100,"hi","CropSystv3.04.08","Missing","Capo",4023.27094596454
+114,"EU-15","Austria",46.95,15.82,"Local weather station","c3","c3","RFD",100,"hi","CropSystv3.04.08","Missing","Capo",3923.48886171754
+117,"EU-12","Czech Republic",48.8,16.8,"Local weather station","c3","c3","RFD",50,"lo","CropSystv3.04.08","Missing","Orbit",5345.48619616392
+118,"EU-12","Czech Republic",48.8,16.8,"Local weather station","c3","c3","RFD",120,"hi","CropSystv3.04.08","Missing","Samanta",7651.77178037599
+119,"EU-12","Czech Republic",49.47,17.28,"Local weather station","c3","c3","RFD",50,"lo","CropSystv3.04.08","Missing","Orbit",5257.6591397342
+120,"EU-12","Czech Republic",49.47,17.28,"Local weather station","c3","c3","RFD",100,"hi","CropSystv3.04.08","Missing","Samanta",7637.07710050153
+121,"EU-15","Denmark",55.18,11.23,"Local weather station","c3","c3","RFD",130,"hi","CropSystv3.04.08","Missing","Mixture",6871.64158333291
+122,"EU-15","Denmark",55.18,11.23,"Local weather station","c3","c3","RFD",170,"hi","CropSystv3.04.08","Missing","Tommi",7542.29811230018
+123,"EU-15","Denmark",56.5,9.58,"Local weather station","c3","c3","RFD",130,"hi","CropSystv3.04.08","Missing","Mixture",7108.40321906297
+124,"EU-15","Denmark",56.5,9.58,"Local weather station","c3","c3","RFD",170,"hi","CropSystv3.04.08","Missing","Tommi",8135.19717289437
+125,"EU-15","Denmark",54.9,9.13,"Local weather station","c3","c3","RFD",130,"hi","CropSystv3.04.08","Missing","Mixture",5557.62321520755
+126,"EU-15","Denmark",54.9,9.13,"Local weather station","c3","c3","RFD",170,"hi","CropSystv3.04.08","Missing","Tommi",5912.16463836531
+127,"EU-15","Finland",60.7,23.5,"Local weather station","c3","c3","RFD",80,"lo","CropSystv3.04.08","Missing","Scarlett",6360.95503539272
+128,"EU-15","Germany",52.85,14.12,"Local weather station","c3","c3","RFD",100,"hi","CropSystv3.04.08","Missing","Bussard",3519.81974355003
+132,"Southeast Asia","Thailand",18.47,98.58,"AgMERRA","c3","c3","RFD",23.4,"lo","DSSATv4.6.0.8","CSM-CROPGRO-Peanut","KKU 1",4004.6478911529
+133,"Southeast Asia","Thailand",15.15,104.52,"AgMERRA","c3","c3","RFD",23.4,"lo","DSSATv4.6.0.8","CSM-CROPGRO-Peanut","KKU 1",3928.15921976252
+134,"Southeast Asia","Thailand",18.1,100.1,"AgMERRA","c3","c3","RFD",23.4,"lo","DSSATv4.6.0.8","CSM-CROPGRO-Peanut","KKU 1",2823.22088175039
+136,"Southeast Asia","Thailand",16.08,103.41,"AgMERRA","c3","c3","IRR",23.4,"lo","DSSATv4.6.0.8","CSM-CROPGRO-Peanut","KKU 1",4120.46077744207
+137,"Southeast Asia","Thailand",17.09,104.08,"AgMERRA","c3","c3","IRR",23.4,"lo","DSSATv4.6.0.8","CSM-CROPGRO-Peanut","KKU 1",4525.61452421552
+146,"India","India",28.3827,77.0938,"AgMERRA","c3","c3","IRR",120,"hi","InfoCropv2","InfoCrop-Wheat","PBW 154",5441.33911614746
+148,"India","India",28.3827,77.0938,"AgMERRA","c3","c3","RFD",30,"lo","InfoCropv2","InfoCrop-Soybean","P1495",1636.52523363718
+149,"EU-15","Denmark",56.3,9.34,"Danish Meteorological Institute","c3","c3","RFD",140,"hi","Fasset 2.2.4","Missing","Audi, Deben, Hereford, Robigus",6099.78751445535
+150,"Canada","Canada",49.7,247.2225,"Agriculture and Agri-Food Canada","c3","c3","RFD",45,"lo","DailyDaycentv01.03.2013","FRTCINDX = 2 (Annual Plant) - only Max/Min Temp & precip","Katepwa Sp",2883.33154188124
+151,"Canada","Canada",49.7,247.2225,"Agriculture and Agri-Food Canada","c3","c3","RFD",45,"lo","DailyDaycentv01.03.2013","FRTCINDX = 5 - only Max/Min Temp & Precip","Katepwa Sp",2666.68733167361
+152,"Canada","Canada",49.7,247.2225,"Agriculture and Agri-Food Canada","c3","c3","RFD",45,"lo","DailyDaycentv01.03.2013","FRTCINDX = 2 (Annual Plant) - all climate inputs","Katepwa Sp",2846.84419388156
+153,"Canada","Canada",49.7,247.2225,"Agriculture and Agri-Food Canada","c3","c3","RFD",45,"lo","DailyDaycentv01.03.2013","FRTCINDX = 5 - all climate inputs","Katepwa Sp",2821.18987507529
+196,"Mexico","Mexico",19.53,261.1532,"AgMERRA","c3","c3","IRR",150,"hi","DSSATv4.5.0","CERES-Wheat","PBW343",8040.95519714348
+199,"Australia_NZ","Australia",-35.16,147.46,"AgMERRA","c3","c3","RFD",60,"lo","APSIMv1.55s","Nwheat","Wyalk",3024.82949537162
+200,"Australia_NZ","Australia",-31.65,117.23,"AgMERRA","c3","c3","RFD",90,"lo","APSIMv1.55s","Nwheat","Janz",3581.52669365676
+201,"India","India",14.68,77.62,"ICRISAT - India","c3","c3","RFD",20,"lo","InfoCrop-Groundnut","Missing","TMV 2",1009.09878577357
+202,"India","India",14.68,77.62,"ICRISAT - India","c3","c3","IRR",20,"lo","InfoCrop-Groundnut","Missing","TMV 2",4163.65672769935
+205,"India","India",22.43,75.5,"NRCS - Indore","c3","c3","RFD",20,"lo","InfoCrop-Soybean","Missing","JS 335",2669.74066318268
+206,"India","India",22.43,75.5,"NRCS - Indore","c3","c3","IRR",20,"lo","InfoCrop-Soybean","Missing","JS 335",3224.99585202214
+225,"China","China",32.03,118.48,"Climatologist Observations","c3","c3",NA,270,"hi","APSIMv7.3","APSIM-Canola","Ningza 3",4429.26616848809
+226,"China","China",30.282,114.213,"Climatologist Observations","c3","c3",NA,105,"hi","APSIMv7.3","APSIM-Canola","Zhongshuang 10",3775.13719540235
+227,"China","China",29.35,111.2,"Climatologist Observations","c3","c3",NA,87.5,"lo","APSIMv7.3","APSIM-Canola","Xiangzayou 1",2815.8826892577
+228,"Australia_NZ","Australia",-34.4046,147.5326,"Climatologist Observations","c3","c3","RFD",75,"lo","APSIMv7.5","APSIM-Wheat","Hartog",3695.81088688326
+229,"Australia_NZ","Australia",-35.2,149.089,"Climatologist Observations","c3","c3","RFD",100,"hi","APSIMv7.5","APSIM-Wheat","Hartog",3616.09801409749
+230,"Australia_NZ","Australia",-35.11,147.37,"Climatologist Observations","c3","c3","RFD",100,"hi","APSIMv7.5","APSIM-Wheat","Hartog",3772.50978104425
+231,"Australia_NZ","Australia",-27.32,152.2,"Climatologist Observations","c3","c3","RFD",180,"hi","APSIMv7.5","APSIM-Wheat","Hartog",3683.66087051174
+232,"Australia_NZ","Australia",-27.34,151.52,"Climatologist Observations","c3","c3","RFD",-99,"lo","APSIMv7.5","APSIM-Wheat","Hartog",3321.45883246718
+233,"Australia_NZ","Australia",-30.33,149.78,"Climatologist Observations","c3","c3","RFD",100,"hi","APSIMv7.5","APSIM-Wheat","Hartog",3394.73205557151
+234,"Australia_NZ","Australia",-33.55,116.54,"Climatologist Observations","c3","c3","RFD",100,"hi","APSIMv7.5","APSIM-Wheat","Wyallkatchem",3690.345753212
+236,"China","China",45.45,126.46,"Climatologist Observations","c3","c3","IRR",150,"hi","APSIMv7.5","APSIM-Wheat","Longmai 26",5073.24870034771
+375,"Africa_Western","Ghana",10.02,357.62,"Local weather station","c3","c3","RFD",0,"lo","DSSATv4.5.1.023","CROPGRO-Peanut","Chinese",2202.20338244925
+379,"China","China",30.658,104.064856,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","Guichao#2 (GZ)",11530.5123943707
+381,"China","China",23.07,113.38,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","Guichao#2 (GZ)",10719.0317568592
+382,"China","China",23.07,113.38,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Rice","Guichao#2 (GZ)",10722.4427224285
+383,"Southeast Asia","Philippines",14.17,121.24,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","IR 64",4293.68019741607
+385,"India","India",30.9,75.8,"Local weather station","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","PR 114",4540.68317869623
+387,"India","India",30.9,75.8,"Local weather station","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","PR 114",5314.39786881734
+389,"China","China",32.06,118.8,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","S.U.63",10426.9606887868
+391,"Japan","Japan",37.9,139.02,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","Koshihikari",8575.52637814917
+392,"Japan","Japan",37.9,139.02,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Rice","Koshihikari",9429.38249348373
+394,"China","China",34.2,117.28,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Rice","Yangen#2 (XUZ) ",9645.13998071523
+395,"USA","USA",32.42,260.32,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Forrest (5)",1191.09581837752
+397,"USA","USA",32.42,260.32,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Forrest (5)",4836.8288279448
+399,"USA","USA",30.53,268.85,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 6",2414.99773744102
+401,"USA","USA",30.53,268.85,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 6",4451.74448204163
+403,"USA","USA",43.72,243.8,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 0",400.917772254773
+405,"USA","USA",43.72,243.8,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 0",4268.69744456225
+407,"USA","USA",33.95,278.88,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Cobb (8)",2886.32983702009
+409,"USA","USA",33.95,278.88,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Cobb (8)",4553.4341250031
+411,"USA","USA",40,277.12,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",2025.95934045091
+413,"USA","USA",40,277.12,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",3800.92621739396
+415,"USA","USA",41.53,266.35,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",2256.03080918669
+417,"USA","USA",41.53,266.35,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",4266.69916406455
+419,"USA","USA",37.77,260.03,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 4",1202.86598019392
+421,"USA","USA",37.77,260.03,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 4",4912.55949551205
+423,"USA","USA",41.02,268.04,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",2168.55565477142
+425,"USA","USA",41.02,268.04,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",4068.40429291553
+427,"USA","USA",46.9,263.2,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 00",1294.82224185921
+429,"USA","USA",46.9,263.2,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 00",3049.15126372655
+433,"USA","USA",36.77,240.28,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Essex (5)",5645.97977356895
+435,"USA","USA",29.65,277.68,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Bragg",3973.60553437499
+436,"USA","USA",29.65,277.68,"AgMERRA","c3","c3","IRR",0,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Bragg",4299.57516842099
+437,"USA","USA",39.35,258.29,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 3",790.326744705131
+439,"USA","USA",39.35,258.29,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 3",4847.43872690886
+441,"USA","USA",40.97,261.68,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",1407.46763765706
+443,"USA","USA",40.97,261.68,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",3854.41756784776
+445,"USA","USA",39.73,273.72,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Williams",2401.02039602762
+447,"USA","USA",39.73,273.72,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Williams",4290.24752292681
+449,"USA","USA",39.32,265.28,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 4",1636.1497752048
+451,"USA","USA",39.32,265.28,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 4",4690.65080774645
+453,"USA","USA",43.87,268.75,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 0",1715.2086300655
+455,"USA","USA",43.87,268.75,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 0",3344.70387268438
+457,"USA","USA",37.33,280.8,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Essex (5)",1774.97960791751
+459,"USA","USA",37.33,280.8,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Essex (5)",4698.41839800167
+461,"USA","USA",43.13,270.67,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",2196.20538278087
+463,"USA","USA",43.13,270.67,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",3757.96170348502
+465,"USA","USA",35.05,270,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Forrest (5)",1298.21538732539
+467,"USA","USA",35.05,270,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Forrest (5)",4640.2263233631
+469,"USA","USA",45.59,264.09,"AgMERRA","c3","c3","RFD",0,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Evans",2283.17913442906
+470,"USA","USA",45.59,264.09,"AgMERRA","c3","c3","IRR",0,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Evans",3039.60806798002
+471,"USA","USA",41.98,262.57,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",1463.76441398881
+473,"USA","USA",41.98,262.57,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",3947.10410136399
+475,"USA","USA",41.07,259.25,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 0",1382.78253958206
+477,"USA","USA",41.07,259.25,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 0",3404.85587838038
+479,"USA","USA",41.3,264.1,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",1363.86548206591
+481,"USA","USA",41.3,264.1,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 1",3736.34195270621
+485,"USA","USA",40.67,270.32,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",4416.23176248094
+489,"USA","USA",33.43,247.98,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Bragg",3471.2182953668
+491,"USA","USA",43.57,263.27,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 0",1075.07751388609
+493,"USA","USA",43.57,263.27,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 0",3414.62728238472
+495,"USA","USA",47.63,242.47,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 00",458.684118348523
+497,"USA","USA",47.63,242.47,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 00",4030.29298320714
+499,"USA","USA",38.75,269.63,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",1442.06320783953
+501,"USA","USA",38.75,269.63,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","G Group 3",4359.67669703818
+503,"USA","USA",30.38,275.63,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Cobb (8) - new",3547.47293211349
+505,"USA","USA",30.38,275.63,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Cobb (8) - new",4495.92925409172
+507,"USA","USA",39.06,264.31,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Williams-82(3)",1957.02770007678
+509,"USA","USA",39.06,264.31,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","Williams-82(3)",4263.17608874952
+511,"USA","USA",41.25,283.08,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",2271.66113613735
+513,"USA","USA",41.25,283.08,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 2",3993.20428575067
+515,"USA","USA",46.57,239.47,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 1",470.674321196318
+517,"USA","USA",46.57,239.47,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CROPGRO-Soybean","M Group 1",4179.05129484606
+523,"USA","USA",46.81,259.22,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3211.20443813345
+524,"USA","USA",46.81,259.22,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",4748.81325157273
+527,"Europe_Eastern","Ukraine",46.484,30.732,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",4146.74310870809
+528,"Europe_Eastern","Ukraine",46.484,30.732,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",4435.67966919041
+529,"USA","USA",44.37,259.65,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3053.27140869672
+530,"USA","USA",44.37,259.65,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3655.98986066963
+531,"USA","USA",45.56,265.84,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3329.80773069844
+532,"USA","USA",45.56,265.84,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3617.63818323522
+533,"Canada","Canada",50.29,252.2,"AgMERRA","c3","c3","RFD",82,"lo","DSSATv4.5.1.023","CERES-Wheat","Manitou",1566.08087462673
+539,"USA","USA",32.42,260.32,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Southern Plains",6837.57561134489
+541,"USA","USA",32.42,260.32,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Southern Plains",7692.04680363101
+543,"EU-15","Spain",39,358.14,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",4786.84440156511
+544,"EU-15","Spain",39,358.14,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",8164.76099896011
+545,"EU-15","Spain",38.878545,353.029817,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",5424.79620663769
+546,"EU-15","Spain",38.878545,353.029817,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",6912.00804325313
+547,"Argentina","Argentina",-37.75,301.7,"Local weather station","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Wheat","Manitou",3598.38935294379
+549,"Argentina","Argentina",-37.75,301.7,"Local weather station","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Wheat","Manitou",4487.95979721114
+551,"China","China",39.9,116.41,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","F.K.#2 (BJ)",5545.38215357092
+553,"China","China",30.658,104.064856,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","M.Y.#11 (CD)",6087.64964282738
+554,"China","China",30.658,104.064856,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","M.Y.#11 (CD)",10518.5298146628
+555,"India","India",28.38,77.12,"NCDC GHCN","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Wheat","HD2009",2990.48107335585
+557,"India","India",28.38,77.12,"NCDC GHCN","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Wheat","HD2009",3686.32517072658
+559,"Pakistan","Pakistan",31.82,70.92,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",6429.99596680563
+560,"Japan","Japan",33.59,130.4,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Norin 61",5662.50853736072
+561,"Japan","Japan",33.59,130.4,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Norin 62",5957.85453293317
+565,"USA","USA",39.35,258.29,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",8320.30700935162
+567,"Australia_NZ","Australia",-34.29,146.04,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",4972.00520101091
+572,"USA","USA",35.47,262.48,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Vona",6612.65262756386
+573,"USA","USA",35.47,262.48,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Vona",7629.66083155185
+574,"EU-15","U.K.",51.82,359.64,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Wheat","Maris Funden",6268.78985114156
+576,"Africa_Northern","Egypt",31.09,30.95,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",3153.27967068706
+577,"Africa_Northern","Egypt",31.09,30.95,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",7144.57349370622
+578,"EU-15","Spain",37.38,354,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",5625.34244161366
+579,"EU-15","Spain",37.38,354,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","ANSA",6555.02563725399
+580,"USA","USA",39.06,264.31,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Scout66",4207.84875648505
+582,"USA","USA",39.06,264.31,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Scout66",4058.60889309635
+584,"USA","USA",46.57,239.47,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Pacific",3975.28657624737
+586,"USA","USA",37.77,260.03,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",4801.18922888914
+588,"USA","USA",37.77,260.03,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",7885.19760194397
+590,"USA","USA",41.07,259.25,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",5159.89533947183
+592,"USA","USA",41.07,259.25,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Newton",6577.62895394092
+602,"Southeast Asia","Philippines",18.05,120.59,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Rice","IR 64",4318.20665251773
+604,"Pakistan","Pakistan",32.93,73.72,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",4663.57894141094
+605,"Pakistan","Pakistan",32.93,73.72,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",6275.11528909118
+606,"Pakistan","Pakistan",28.63,70.65,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",4663.57894141094
+607,"Pakistan","Pakistan",28.63,70.65,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak",6275.11528909118
+608,"Japan","Japan",43.8,143.9,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Haruminori",1621.83003294371
+609,"Japan","Japan",43.8,143.9,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Haruminori",2093.43892821339
+611,"Japan","Japan",39.7,141.15,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Nambu-Komugi",4895.27204635804
+612,"China","China",32.06,118.8,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Yanmai#5 (NAN)",9905.03316703294
+613,"China","China",32.06,118.8,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Yanmai#5 (NAN)",10037.6380909919
+614,"Australia_NZ","Australia",-30.33,149.78,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",2640.49245124836
+615,"Australia_NZ","Australia",-30.33,149.78,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",2658.36351167449
+616,"China","China",34.26,108.94,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Y.M.#2 (XA)",7630.77247854136
+618,"China","China",34.2,117.28,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Jinan#13 (XUZ)",6235.95872558818
+619,"China","China",34.2,117.28,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Jinan#13 (XUZ)",9431.74079548305
+620,"Russia","Russia",46.37,48.08,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",4157.53274758243
+621,"Russia","Russia",46.37,48.08,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",7081.57543290506
+622,"Europe_Eastern","Belarus",52,24.2,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",3957.09545176189
+623,"Europe_Eastern","Belarus",52,24.2,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",4201.80786992244
+624,"Russia","Russia",53.24,34.37,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3363.23667108817
+625,"Russia","Russia",53.24,34.37,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3686.49600439073
+626,"Central Asia","Kazakhstan",49.83,73.17,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",3005.90381782633
+627,"Central Asia","Kazakhstan",49.83,73.17,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4837.45121229823
+628,"Europe_Eastern","Ukraine",49.99,36.23,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",6600.74246044358
+629,"Europe_Eastern","Ukraine",49.99,36.23,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",7191.13310015162
+630,"Russia","Russia",51.73,36.19,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",6692.7841741126
+631,"Russia","Russia",51.73,36.19,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",6945.65108515372
+632,"EU-12","Lithuania",55.17,23.88,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3511.10639550342
+633,"EU-12","Lithuania",55.17,23.88,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3931.71673272504
+634,"Europe_Eastern","Belarus",53.9,27.57,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3426.64637541044
+635,"Europe_Eastern","Belarus",53.9,27.57,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3673.16489818377
+636,"Central Asia","Kazakhstan",49.9,57.9,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4574.74911471663
+637,"Central Asia","Kazakhstan",49.9,57.9,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4708.26975716822
+638,"Central Asia","Kazakhstan",50,55.6,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",3048.27712423481
+639,"Central Asia","Kazakhstan",50,55.6,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Albidum 43",7183.66826549303
+640,"Central Asia","Kazakhstan",54.16,69.94,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",3774.64936183663
+641,"Central Asia","Kazakhstan",54.16,69.94,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4440.21133301409
+642,"Europe_Eastern","Ukraine",50.25,28.66,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Ostka",4735.60523300329
+643,"Europe_Eastern","Ukraine",50.25,28.66,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Ostka",5012.98481038074
+644,"Central Asia","Kazakhstan",51.17,71.42,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",3819.47760662469
+645,"Central Asia","Kazakhstan",51.17,71.42,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Psediturthicum",4341.93668979235
+646,"Russia","Russia",57.63,39.89,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3493.23768623141
+647,"Russia","Russia",57.63,39.89,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Palmira",3657.06741046416
+648,"Russia","Russia",47.22,39.71,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",3321.95044213631
+649,"Russia","Russia",47.22,39.71,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 62",4259.01151951767
+650,"Europe_Eastern","Ukraine",50.25,28.66,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 9",6944.80974524972
+651,"Europe_Eastern","Ukraine",50.25,28.66,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Lutescens 10",7683.17105112828
+654,"Europe_Eastern","Belarus",52,24.2,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Krymskaya",3723.79588115806
+655,"Europe_Eastern","Belarus",52,24.2,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","77",4402.29579838331
+659,"Australia_NZ","Australia",-34.53,138.73,"AgMERRA","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",4449.57798114015
+660,"Australia_NZ","Australia",-34.53,138.73,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Egret",4464.86858916948
+669,"USA","USA",30.53,268.85,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6405.86165359511
+671,"USA","USA",30.53,268.85,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6385.43233084036
+673,"USA","USA",40,277.12,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",5230.10826807113
+674,"USA","USA",40,277.12,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",5150.36102801216
+679,"USA","USA",33.95,278.88,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6872.96873895455
+680,"USA","USA",33.95,278.88,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6918.19581769173
+693,"Africa_Northern","Egypt",24.07,32.92,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak65",7457.44879991261
+694,"Africa_Northern","Egypt",31.33,27.22,"AgMERRA","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Mexipak65",6445.16336480278
+701,"USA","USA",46.9,263.2,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",2832.69822397154
+702,"USA","USA",46.9,263.2,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Butte",3202.37453491476
+707,"USA","USA",36.77,240.28,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","India ",3462.30432773604
+719,"USA","USA",39.73,273.72,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",4443.71716864084
+720,"USA","USA",39.73,273.72,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",4394.23525838615
+725,"USA","USA",37.33,280.8,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",5410.69082423029
+726,"USA","USA",37.33,280.8,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",5593.19462144255
+731,"USA","USA",35.05,270,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6704.55105036944
+732,"USA","USA",35.05,270,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6793.96971842338
+741,"USA","USA",33.43,247.98,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Southern Plains",7064.34061039051
+749,"USA","USA",47.63,242.47,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","Pacific",4176.85010382779
+753,"USA","USA",30.38,275.63,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",7160.40418948297
+754,"USA","USA",30.38,275.63,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",7552.34755503178
+757,"USA","USA",41.25,283.08,"NCDC GHCN","c3","c3","RFD",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6711.40112231698
+759,"USA","USA",41.25,283.08,"NCDC GHCN","c3","c3","IRR",999,"hi","DSSATv4.5.1.023","CERES-Wheat","East",6682.99131618369
+856,"South Asia","Bangladesh",23.2,89.33,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6627.74780003051
+857,"South Asia","Bangladesh",23.2,89.33,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8448.7710724547
+858,"South Asia","Bangladesh",23.2,89.33,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8303.96103911154
+859,"South Asia","Bangladesh",22.78,89.53,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6568.74353122556
+860,"South Asia","Bangladesh",22.78,89.53,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8898.70402494207
+861,"South Asia","Bangladesh",22.78,89.53,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8176.99243967371
+862,"South Asia","Bangladesh",22.87,91.1,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6424.64924688401
+863,"South Asia","Bangladesh",22.87,91.1,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",6673.72514743524
+864,"South Asia","Bangladesh",22.87,91.1,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7761.42373580093
+865,"South Asia","Bangladesh",24.73,90.42,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",5601.12126711746
+866,"South Asia","Bangladesh",24.73,90.42,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",6638.19544451192
+867,"South Asia","Bangladesh",24.73,90.42,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8336.36817699829
+868,"South Asia","Bangladesh",22.33,90.33,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6455.57902291051
+869,"South Asia","Bangladesh",22.33,90.33,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",9232.63427943803
+870,"South Asia","Bangladesh",22.33,90.33,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8373.23446145563
+871,"South Asia","Bangladesh",25.73,89.27,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7403.37017121474
+872,"South Asia","Bangladesh",25.73,89.27,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8581.5106295219
+873,"South Asia","Bangladesh",25.73,89.27,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8581.5106295219
+874,"South Asia","Bangladesh",22.63,92.15,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6192.52362035991
+875,"South Asia","Bangladesh",22.63,92.15,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8006.93324330333
+876,"South Asia","Bangladesh",22.63,92.15,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",6316.87478734225
+877,"South Asia","Bangladesh",24.3,91.73,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6358.19308500594
+878,"South Asia","Bangladesh",24.3,91.73,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",7920.5596684772
+879,"South Asia","Bangladesh",24.3,91.73,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7669.81302949974
+880,"South Asia","Bangladesh",24.9,91.88,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6261.29236894697
+881,"South Asia","Bangladesh",24.9,91.88,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8213.37285013983
+882,"South Asia","Bangladesh",24.9,91.88,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7955.01596442241
+883,"South Asia","Bangladesh",24.25,89.83,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7151.66387249448
+884,"South Asia","Bangladesh",24.25,89.83,"AgMERRA","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",7465.19231407544
+885,"South Asia","Bangladesh",24.25,89.83,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8288.75677788331
+886,"USA","USA",31.367,274.667,"State Climatologist Observations","c3","c3","RFD",0,"lo","DSSATv4.5.1.023","PeanutGRO","Georgia Green",2706.23985786251
+887,"USA","USA",31.367,274.667,"State Climatologist Observations","c3","c3","IRR",0,"lo","DSSATv4.5.1.023","PeanutGRO","Georgia Green",4973.83505597372
+890,"USA","USA",30.783,274.517,"State Climatologist Observations","c3","c3","RFD",0,"lo","DSSATv4.5.1.023","PeanutGRO","Georgia Green",4067.3574123612
+891,"USA","USA",30.783,274.517,"State Climatologist Observations","c3","c3","IRR",0,"lo","DSSATv4.5.1.023","PeanutGRO","Georgia Green",4699.79092986725
+898,"South Asia","Bangladesh",22.35,91.82,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6523.34817744193
+899,"South Asia","Bangladesh",22.35,91.82,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",9081.65431124554
+900,"South Asia","Bangladesh",22.35,91.82,"BMD","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7852.12434945521
+901,"South Asia","Bangladesh",23.43,91.18,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6542.20358366111
+902,"South Asia","Bangladesh",23.43,91.18,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",6289.66942661914
+903,"South Asia","Bangladesh",23.43,91.18,"BMD","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",7654.96510356044
+904,"South Asia","Bangladesh",23.78,90.38,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",6446.94409014652
+905,"South Asia","Bangladesh",23.78,90.38,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8962.78162920412
+906,"South Asia","Bangladesh",23.78,90.38,"BMD","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8515.22317225003
+907,"South Asia","Bangladesh",25.65,88.68,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7986.55035181289
+908,"South Asia","Bangladesh",25.65,88.68,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",9162.41499101539
+909,"South Asia","Bangladesh",25.65,88.68,"BMD","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8914.9088737487
+910,"South Asia","Bangladesh",23.93,89.85,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7120.19336245529
+911,"South Asia","Bangladesh",23.93,89.85,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8316.75282882417
+912,"South Asia","Bangladesh",23.93,89.85,"BMD","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8437.48572863534
+913,"South Asia","Bangladesh",24.15,89.03,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Biplab (BR3)",7277.25168612798
+914,"South Asia","Bangladesh",24.15,89.03,"BMD","c3","c3","RFD",120,"hi","DSSATv4.5.1.023","CERES-Rice","Mukta (BR11)",8456.20387290145
+915,"South Asia","Bangladesh",24.15,89.03,"BMD","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","BR29",8166.85478991774
+919,"EU-15","Germany",50.808,6.952,"German Meteorological Service, INRES (own measurements) for calibration, AgMERRA for simulation","c3","c3","RFD",-99,"lo","LINTUL2","SIMPLACE-LINTUL2(SLIM, ETP)","Various (Halo, Marder, Accord, Ursus, Picasso, Festus, Recrut, Visello)",7786.91216091808
+921,"Africa_Western","Cameroon",9.335,13.375,"AgMERRA","c3","c3","RFD",44,"lo","DSSATv4.5.1.023","CROPGRO","L484 ",1728.73837068201
+923,"USA","USA",42.75,265.5,"State Climatologist Observations","c3","c3","RFD",140,"hi","RZWQM-DSSAT4.0","CERES-Soybean, CROPGRO","Dekalb",2887.84380138669
+924,"USA","USA",47.7667,255.7333,"State Climatologist Observations","c3","c3","RFD",100,"hi","RZWQM-DSSAT4.0","CERES-Wheat","Missing",1879.08146514247
+932,"Japan","Japan",36.17,139.35,"Mesh Agro-meteorological data from NARO","c3","c3","IRR",75,"lo","SPRiGS","SPRiGS is based on ORYZA2000 and SIMRIW","Koshihikari",4989.32654055881
+933,"Argentina","Argentina",-33.11,295.84,"SMN","c3","c3","RFD",44,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",2312.25125183291
+935,"Argentina","Argentina",-33.11,295.84,"SMN","c3","c3","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","DM 4800",4749.94409714669
+936,"Argentina","Argentina",-38.33,299.67,"SMN","c3","c3","RFD",37,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",4849.191744638
+938,"Argentina","Argentina",-38.33,299.67,"SMN","c3","c3","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","A3901",3056.32409286599
+939,"Argentina","Argentina",-37.75,301.7,"INTA","c3","c3","RFD",37,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",5156.67207552737
+941,"Argentina","Argentina",-37.75,301.7,"INTA","c3","c3","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","A3901",3750.83546620375
+942,"Argentina","Argentina",-32.68,297.88,"INTA","c3","c3","RFD",37,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",3300.10626839978
+944,"Argentina","Argentina",-32.68,297.88,"INTA","c3","c3","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","DM 4800",4050.37416001209
+945,"Argentina","Argentina",-33.93,299.45,"INTA","c3","c3","RFD",47,"lo","DSSATv4.0.2","CERES-Wheat","Cronox",4075.26269128377
+947,"Argentina","Argentina",-33.93,299.45,"INTA","c3","c3","RFD",0,"lo","DSSATv4.0.2","CROPGRO-Soybean","DM 4800",3278.04641282488
+950,"South Asia","Sri Lanka",7.517,80.45,"State Agrometeorological Station","c3","c3","IRR",90,"lo","DSSATv4.5.1.023","CERES-Rice","BG300",4560.49352109561
+951,"South Asia","Sri Lanka",7.517,80.45,"State Agrometeorological Station","c3","c3","IRR",90,"lo","DSSATv4.5.1.023","CERES-Rice","BG300",5643.84175919802
+954,"South Korea","Republic of Korea",37.267,126.983,"Suwon weather station","c3","c3","RFD",30,"lo","DSSATv4.5.1.023","CROPGRO-Soybean","Sinpaldal",2739.55044619641
+1004,"EU-15","Germany",50.808,6.952,"German Meteorological Service, INRES (own measurements) for both calibration and simulation","c3","c3","RFD",-99,"lo","LINTUL2","SIMPLACE-LINTUL2(SLIM, ETP)","Various (Halo, Marder, Accord, Ursus, Picasso, Festus, Recrut, Visello)",8322.74591044243
+1030,"EU-15","Belgium",50.77,4.6,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c3","c3","RFD",150,"hi","AquaCROP","Missing","Potenzial",10807.5407798012
+1031,"EU-15","Belgium",50.77,4.6,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c3","c3","RFD",150,"hi","Sirius","Missing","Potenzial",9814.59855460973
+1032,"EU-15","Belgium",50.83,3.85,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c3","c3","RFD",-99,"lo","AquaCROP","Missing","Missing",10746.6219803339
+1051,"India","India",28.2,77.48,"State Climatologist Observations","c3","c3","IRR",100,"hi","APSIMv6.0","Wheat module","Sujata",3282.42783392179
+1053,"India","India",23.9,79.57,"State Climatologist Observations","c3","c3","IRR",100,"hi","APSIMv6.0","Wheat module","Sujata",3006.83167778128
+1054,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",126.5030172,"hi","DSSATv4.5","CERES-Rice","Bg 358",6342.49362452209
+1055,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",126.5030172,"hi","DSSATv4.5","CERES-Rice","Bg 357",7237.70483281782
+1056,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",103.5024686,"hi","DSSATv4.5","CERES-Rice","Bg 357",5862.6969737309
+1057,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",97.75233144,"hi","DSSATv4.5","CERES-Rice","Bg 300",5735.15511588522
+1058,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",44.46772724,"lo","DSSATv4.5","CERES-RIce","Bg 357",5224.36418973907
+1059,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",90.08548191,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",7048.62042868283
+1060,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",103.5024686,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",9777.08400406971
+1061,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 357",5486.22836378829
+1062,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 358",5483.32272920248
+1063,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",109.2526057,"hi","DSSATv4.5","CERES-Rice","Bg 357",5869.54447072247
+1064,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",109.2526057,"hi","DSSATv4.5","CERES-Rice","Bg 300",5623.89549873527
+1065,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 357",6625.59512229623
+1066,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 358",5203.31100651147
+1067,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 358",4700.51543429769
+1068,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",9107.81282387149
+1069,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",56.351344,"lo","DSSATv4.5","CERES-Rice","Bg 358",5765.61481212079
+1070,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",92.00219429,"hi","DSSATv4.5","CERES-Rice","Bg 357",5683.78900800222
+1071,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",-99,"lo","DSSATv4.5","CERES-Rice","Bg 357",6128.80909136741
+1072,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",86.25205715,"lo","DSSATv4.5","CERES-Rice","Bg 357",5586.84019335388
+1073,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",115.0027429,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",8747.57696210901
+1074,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",99.67287724,"hi","DSSATv4.5","CERES-Rice","Bg 300",5558.4980099899
+1075,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",99.67287724,"hi","DSSATv4.5","CERES-Rice","Bg 352",5642.12190199429
+1076,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",120.75288,"hi","DSSATv4.5","CERES-Rice","Bg 450",7964.96983696433
+1078,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",115.0027429,"hi","DSSATv4.5","CERES-Rice","Bg 352",6902.45615762019
+1079,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",109.2526057,"hi","DSSATv4.5","CERES-Rice","Bg 450",6816.75723623434
+1080,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",92.00219429,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",5790.15834966377
+1081,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",103.5024686,"hi","DSSATv4.5","CERES-Rice","Bg 379-2",7914.38930552314
+1082,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",102.2246603,"hi","DSSATv4.5","CERES-Rice","Bg 357",5998.6479190175
+1083,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",122.6695924,"hi","DSSATv4.5","CERES-Rice","Bg 358",5750.8893903465
+1084,"South Asia","Sri Lanka",7.51,80.83,"Department of Meteorology - Sri Lanka","c3","c3","IRR",108.1025783,"hi","DSSATv4.5","CERES-Rice","Bg 358",5329.91423460988
+1091,"EU-15","Belgium",50.75,5.28,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c3","c3","RFD",999,"hi","AquaCropv4.0","Missing","Nicola",11885.8986548626
+1093,"EU-15","Belgium",50.75,5.28,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c3","c3","RFD",999,"hi","AquaCropv4.0","Missing","Bintje",11143.4482432348
+1095,"EU-15","Belgium",51.73,5.6,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c3","c3","RFD",999,"hi","AquaCropv4.0","Missing","Victoria",9204.61941006795
+1097,"EU-15","Belgium",51.1,5.8,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c3","c3","RFD",999,"hi","AquaCropv4.0","Missing","Victoria",9321.73440760581
+1099,"EU-15","Belgium",51.28,5.45,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c3","c3","RFD",999,"hi","AquaCropv4.0","Missing","Bintje",9540.56849170105
+1105,"Russia","Russia",59.35,30.13,"www.meteo.ru, www.rp5.ru","c3","c3","RFD",45,"lo","AGROTOOLv3.5","Missing","Darja",2288.19648439864
+1106,"Russia","Russia",51.5,46,"www.meteo.ru, www.rp5.ru","c3","c3","RFD",60,"lo","AGROTOOLv3.5","Missing","Mironovskaja 78",2113.31933146047
+1107,"Russia","Russia",53.21,83.45,"www.meteo.ru, www.rp5.ru","c3","c3","RFD",30,"lo","AGROTOOLv3.5","Missing","Altajskaja 100",1576.01909799226
+1122,"India","India",22.19,87.19,"AgMERRA","c3","c3","IRR",120,"hi","DSSATv4.5","CERES-Rice","Swarna",6128.29935828376
+1125,"Pakistan","Pakistan",31.25,73.06,"Pakistan Meterology Department Observatory","c3","c3","IRR",25,"lo","DSSATv4.5.1.023","CROPGRO-Chickpea","Punjab-Masoor-2009",1006.96391955079
+1126,"Pakistan","Pakistan",31.25,73.06,"University of Agriculture Faisalabad, Climatologist Observations","c3","c3","IRR",120,"hi","DSSATv4.5.1.023","CERES-Rice","Basmati-2000",4162.90344400082
+1127,"Pakistan","Pakistan",31.25,73.06,"University of Agriculture Faisalabad, Climatologist Observations","c3","c3","IRR",220,"hi","DSSATv4.5.1.023","CERES-Wheat","Lasani-2008",5175.9636870179
+1128,"Pakistan","Pakistan",31.32,71.76,"Pakistan Meteorology Department of Pakistan","c3","c3","IRR",200,"hi","DSSATv4.5.1.023","CROPGRO-Cotton","CIM-496",2387.8232863349
+1134,"Africa_Western","Ghana",10.3,2.5,"SARI, Wa","c3","c3","RFD",0,"lo","DSSAT v4.5","PeanutGRO","Chinese",983.898184807873
+3,"USA","USA",40.44,255.37,"AgMERRA","c4","c4","IRR",999,"hi","RZWQM2","CSM-CERESv4.0","Dekalb 52-59",9674.71335573552
+4,"USA","USA",40.1548,256.858,"AgMERRA","c4","c4","IRR",999,"hi","RZWQM2","CSM-CERESv4.0","Pioneer Brand 3732",8818.98878820315
+9,"USA","USA",42.2,266.4,"Local weather station","c4","c4","RFD",200,"hi","DRAINMOD-DSSAT","CERES-Maize, CROPGRO","Missing",9375.68549867645
+14,"India","India",11,77,"TNAU Observatory","c4","c4","RFD",30,"lo","DSSATv4.5.1.023","CERES-Maize","CO1",5802.93577664581
+24,"South America_Southern","Bolivia",-17.11,296.75833,"AgMERRA","c4","c4","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3938.01650297863
+27,"South America_Southern","Bolivia",-16.75,297.5,"AgMERRA","c4","c4","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3574.85721526626
+30,"South America_Southern","Bolivia",-16.81667,296.51667,"AgMERRA","c4","c4","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3569.82941274145
+33,"South America_Southern","Bolivia",-17.6333,297.76667,"AgMERRA","c4","c4","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3600.70001119292
+36,"South America_Southern","Bolivia",-17.25,296.15917,"AgMERRA","c4","c4","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3693.80229185667
+39,"South America_Southern","Bolivia",-15.7,296.9,"AgMERRA","c4","c4","RFD",0,"lo","DSSATv4.0.2.0","CERES-Maize","Suwan 1",3092.51915945472
+53,"China","China",41.317,123.783,"AgMERRA","c4","c4","RFD",999,"hi","APSIMv6.1","APSIM-Maize","Danyu 13",9345.65104631893
+54,"China","China",43.183,124.333,"AgMERRA","c4","c4","RFD",999,"hi","APSIMv6.1","APSIM-Maize","Xianyu 335",11194.2149019105
+55,"China","China",45.75,126.767,"AgMERRA","c4","c4","RFD",999,"hi","APSIMv6.1","APSIM-Maize","Sidan 19",10108.6986631383
+56,"China","China",41.317,123.783,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5","CERES-Maize","Danyu 14",11711.338309815
+57,"China","China",43.183,124.333,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5","CERES-Maize","Xianyu 336",10780.297578545
+58,"China","China",45.75,126.767,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5","CERES-Maize","Sidan 19",11499.8620833792
+59,"USA","USA",42.017,266.25,"AgMERRA","c4","c4","RFD",999,"hi","MCWLA-Maizev2.0","Missing","Missing",9840.82042525735
+111,"EU-15","Austria",48.23,16.57,"Local weather station","c4","c4","RFD",202,"hi","CropSystv3.04.08","Missing","Benicia",5445.08294452186
+112,"EU-15","Austria",48.23,16.57,"Local weather station","c4","c4","RFD",202,"hi","CropSystv3.04.08","Missing","Benicia",4445.86025855125
+115,"EU-15","Austria",46.95,15.82,"Local weather station","c4","c4","RFD",202,"hi","CropSystv3.04.08","Missing","Benicia",6743.26376459308
+116,"EU-15","Austria",46.95,15.82,"Local weather station","c4","c4","RFD",202,"hi","CropSystv3.04.08","Missing","Benicia",6553.72301723265
+130,"EU-15","France",43.6043,1.4437,"AgMERRA","c4","c4","RFD",200,"hi","STICS (ModuloSTICS 1,2)","Corn","Volga",8869.2447725826
+138,"Australia_NZ","Australia",-27.54,152.34,"Experiment weather station","c4","c4","IRR",360,"hi","APSIMv7.5","APSIM-Sorghum","A35xQL36",9600.62314606643
+139,"Australia_NZ","Australia",-27.54,152.34,"Experiment weather station","c4","c4","IRR",45,"lo","APSIMv7.5","APSIM-Sorghum","A35xQL36",5985.46602932996
+140,"Australia_NZ","Australia",-27.54,152.34,"Experiment weather station","c4","c4","IRR",0,"lo","APSIMv7.5","APSIM-Sorghum","A35xQL36",3793.74989542574
+141,"Australia_NZ","Australia",-28.21,152.1,"Experiment weather station","c4","c4","IRR",240,"hi","APSIMv7.5","APSIM-Sorghum","Buster",8498.29181974499
+143,"Australia_NZ","Australia",-24.38,150.51,"Experiment weather station","c4","c4","RFD",150,"hi","APSIMv7.5","APSIM-Sorghum","Buster",5479.53694983367
+144,"Australia_NZ","Australia",-31.63,150.39,"Experiment weather station","c4","c4","RFD",150,"hi","APSIMv7.5","APSIM-Sorghum","Buster",5582.21932808539
+147,"India","India",28.3827,77.0938,"AgMERRA","c4","c4","IRR",100,"hi","InfoCropv2","InfoCrop-Maize","HPQM1",5232.55060949359
+193,"EU-15","France",46.4167,0.1167,"INRA","c4","c4","RFD",220,"hi","STICSv7.0","STICS","Furio",5583.37261045755
+194,"Mexico","Mexico",20.45,262.36,"AgMERRA","c4","c4","RFD",150,"hi","DSSATv4.5.0","CERES-Maize","PIO 30F32",7190.22613287977
+195,"Mexico","Mexico",20.45,262.36,"AgMERRA","c4","c4","RFD",150,"hi","DSSATv4.5.0","CERES-Maize","DK 357",5551.53616658638
+197,"Brazil","Brazil",-19.47,315.75,"INMET","c4","c4","RFD",137,"hi","DSSATv4.5.0.0","CERES-Sorghum","BRS 310",5235.63608148987
+198,"Brazil","Brazil",-19.47,315.75,"INMET","c4","c4","IRR",137,"hi","DSSATv4.5.0.0","CERES-Sorghum","BRS 310",5235.63608148987
+237,"India","India",17.53,78.27,"Local weather station","c4","c4","RFD",50,"lo","DSSATv4.5.1.023","CERES-Millet","BJ104",3441.0969420265
+239,"India","India",17.53,78.27,"Local weather station","c4","c4","IRR",50,"lo","DSSATv4.5.1.023","CERES-Millet","BJ104",3554.18571601163
+241,"USA","USA",32.42,260.32,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",4392.89803705378
+243,"USA","USA",32.42,260.32,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",7994.87876926865
+245,"USA","USA",30.53,268.85,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",4056.14767205747
+247,"USA","USA",30.53,268.85,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",8146.59262962628
+251,"USA","USA",43.72,243.8,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",14102.2106876761
+253,"USA","USA",33.95,278.88,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",5248.86431511206
+255,"USA","USA",33.95,278.88,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",8213.9509357029
+257,"USA","USA",40,277.12,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",7154.30385319704
+259,"USA","USA",40,277.12,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10729.9825956762
+261,"USA","USA",41.53,266.35,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",6782.43114054193
+263,"USA","USA",41.53,266.35,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10029.9817610451
+265,"USA","USA",37.77,260.03,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",3362.42672724808
+267,"USA","USA",37.77,260.03,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",9147.98472547301
+273,"USA","USA",41.02,268.04,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",6664.35516569531
+275,"USA","USA",41.02,268.04,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10644.9149837896
+277,"USA","USA",46.9,263.2,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",6262.61204902369
+279,"USA","USA",46.9,263.2,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",12465.7708126764
+281,"USA","USA",34.2,280.24,"AgMERRA","c4","c4","RFD",200,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",6518.7751965894
+282,"USA","USA",34.2,280.24,"AgMERRA","c4","c4","IRR",200,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",10892.7183539759
+285,"USA","USA",36.77,240.28,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",9057.51795900258
+287,"USA","USA",39.35,258.29,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4116.75456351294
+289,"USA","USA",39.35,258.29,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",11741.5233071327
+291,"USA","USA",40.97,261.68,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4545.37729435392
+293,"USA","USA",40.97,261.68,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",11255.8579689733
+295,"USA","USA",39.73,273.72,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",7310.28772152717
+297,"USA","USA",39.73,273.72,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10803.7096570036
+299,"USA","USA",39.32,265.28,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5579.82640670217
+301,"USA","USA",39.32,265.28,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",9187.3995869438
+303,"USA","USA",43.87,268.75,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",7177.3471670284
+305,"USA","USA",43.87,268.75,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",10288.3406087118
+307,"USA","USA",37.33,280.8,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",5526.12106913002
+309,"USA","USA",37.33,280.8,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",10218.9449102135
+311,"USA","USA",43.13,270.67,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",7428.83501352201
+313,"USA","USA",43.13,270.67,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",11815.0243449681
+315,"USA","USA",35.05,270,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",4835.70883708744
+317,"USA","USA",35.05,270,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C3",7323.64763383581
+319,"USA","USA",41.98,262.57,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5085.02107640843
+321,"USA","USA",41.98,262.57,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",11587.3782439327
+323,"USA","USA",41.07,259.25,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4860.57107728805
+325,"USA","USA",41.07,259.25,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",13064.2786045963
+327,"USA","USA",41.3,264.1,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4754.89884071009
+329,"USA","USA",41.3,264.1,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10182.9501977738
+331,"USA","USA",40.67,270.32,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",2847.17199345343
+333,"USA","USA",40.67,270.32,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",10845.0436623559
+336,"Brazil","Brazil",-22.72,312.35,"AgMERRA","c4","c4","IRR",70,"lo","DSSATv4.5.1.023","CERES-Maize","AG9010",5092.51375786646
+337,"Brazil","Brazil",-15.62,312.33,"AgMERRA","c4","c4","RFD",10,"lo","DSSATv4.5.1.023","CERES-Maize","Cargill 111S",6633.35899877267
+338,"Brazil","Brazil",-15.62,312.33,"AgMERRA","c4","c4","IRR",10,"lo","DSSATv4.5.1.023","CERES-Maize","Cargill 111S",7453.8314967847
+339,"USA","USA",43.57,263.27,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",4953.04409656809
+341,"USA","USA",43.57,263.27,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C1",11663.3941806983
+347,"USA","USA",38.75,269.63,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5119.66537057682
+349,"USA","USA",38.75,269.63,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",8225.26086326454
+351,"USA","USA",30.38,275.63,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",4393.1336278074
+353,"USA","USA",30.38,275.63,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C4",8333.26655096778
+355,"USA","USA",39.06,264.31,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5103.01856909203
+357,"USA","USA",39.06,264.31,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",8639.02420081455
+359,"Africa_Western","Ghana",10.02,357.62,"Local weather station","c4","c4","RFD",60,"lo","DSSATv4.5.1.023","CERES-Maize","Obatanpa ",2196.17817472045
+361,"Africa_Western","Ghana",10.02,357.62,"Local weather station","c4","c4","IRR",60,"lo","DSSATv4.5.1.023","CERES-Maize","Obatanpa ",2217.79897258138
+363,"USA","USA",41.25,283.08,"NCDC GHCN","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",7653.23371477087
+365,"USA","USA",41.25,283.08,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",11367.328495895
+369,"USA","USA",46.57,239.47,"NCDC GHCN","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",14864.0374779888
+372,"EU-15","Spain",41.66,359.12,"AgMERRA","c4","c4","IRR",300,"hi","DSSATv4.5.1.023","CERES-Maize","Prisma GC Avg",10337.3793824658
+519,"India","India",17.53,78.27,"Local weather station","c4","c4","RFD",80,"lo","DSSATv4.5.1.023","CERES-Sorghum","CSH-1",6144.0410576572
+521,"India","India",17.53,78.27,"Local weather station","c4","c4","IRR",80,"lo","DSSATv4.5.1.023","CERES-Sorghum","CSH-1",6212.06955564208
+594,"China","China",39.9,116.41,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","Jingza#6 (BJ)",3912.73543077486
+595,"China","China",39.9,116.41,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","Jingza#6 (BJ)",4255.62022855069
+596,"EU-15","Spain",41.62,0.62,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","ANSA",546.227314973652
+597,"EU-15","Spain",41.62,0.62,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","ANSA",8437.84886717122
+598,"China","China",32.06,118.8,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","Suyu#1 (NJ)",4043.44097369225
+599,"China","China",32.06,118.8,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","Suyu#1 (NJ)",4182.0625674436
+600,"China","China",34.2,117.28,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","Suyu#1 (NJ)",6412.44632725344
+601,"China","China",34.2,117.28,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","Suyu#1 (NJ)",7042.77597587655
+713,"EU-15","Greece",39.36666667,21.91666667,"AgMERRA","c4","c4","RFD",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3183",986.519647245727
+714,"EU-15","Greece",39.36666667,21.91666667,"AgMERRA","c4","c4","IRR",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3183",5517.84995137199
+715,"EU-15","Greece",40.65,22.06666667,"AgMERRA","c4","c4","RFD",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3183",994.722513499352
+716,"EU-15","Greece",40.65,22.06666667,"AgMERRA","c4","c4","IRR",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3183",4442.20068045541
+717,"EU-15","Greece",41.11666667,24.88333333,"AgMERRA","c4","c4","RFD",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3707",1203.00125706193
+718,"EU-15","Greece",41.11666667,24.88333333,"AgMERRA","c4","c4","IRR",330,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3707",4574.55599915728
+745,"EU-12","Poland",51.23,22.57,"AgMERRA","c4","c4","RFD",50,"lo","DSSATv4.5.1.023","CERES-Maize","Sweet Corn",7102.52296871784
+894,"Central America and Caribbean","Panama",7.95,279.58,"ETESA (National Met Service)","c4","c4","RFD",150,"hi","DSSATv4.5.1.023","CERES-Maize","PIO X 304c B",5479.56939364232
+896,"Central America and Caribbean","Panama",7.95,279.58,"ETESA (National Met Service)","c4","c4","RFD",150,"hi","DSSATv4.5.1.023","CERES-Maize","PIO X 304c B",4859.97727397117
+916,"USA","USA",34.483,267.3,"NCDC","c4","c4","RFD",170,"hi","DSSATv4.5.1.023","CERES-Maize","McCurdy 88",9074.37358709929
+917,"USA","USA",34.65,266.783,"NCDC","c4","c4","RFD",170,"hi","DSSATv4.5.1.023","CERES-Maize","McCurdy 88",7636.2363157573
+918,"USA","USA",34.75,267.6,"NCDC","c4","c4","RFD",170,"hi","DSSATv4.5.1.023","CERES-Maize","McCurdy 88",8064.25574298174
+922,"USA","USA",42.75,265.5,"State Climatologist Observations","c4","c4","RFD",140,"hi","RZWQM-DSSAT4.0","CERES-Maize, CROPGRO","Dekalb",6184.77308548965
+925,"USA","USA",40.45,255.36,"State Climatologist Observations","c4","c4","IRR",146,"hi","RZWQM-DSSAT4.0","CERES-Maize","Dekalb",8144.32586916273
+926,"China","China",38.267,109.783,"State Climatologist Observations","c4","c4","RFD",264,"hi","DSSATv4.0.1.0","CERES-Maize","Shandan 911",3571.02065035147
+927,"China","China",38.267,109.783,"State Climatologist Observations","c4","c4","IRR",264,"hi","DSSATv4.0.1.0","CERES-Maize","Shandan 911",11087.3113070036
+930,"EU-15","Italy",41.02,17.29,"AgMERRA","c4","c4","RFD",285,"hi","DSSATv4.0.1.0","CERES-Maize","Maltus",1246.73087401375
+931,"EU-15","Italy",41.02,17.29,"AgMERRA","c4","c4","IRR",285,"hi","DSSATv4.0.1.0","CERES-Maize","Maltus",7132.10264251761
+934,"Argentina","Argentina",-33.11,295.84,"SMN","c4","c4","RFD",84,"lo","DSSATv4.0.2","CERES-Maize","DK 752",8291.56545823809
+937,"Argentina","Argentina",-38.33,299.67,"SMN","c4","c4","RFD",38,"lo","DSSATv4.0.2","CERES-Maize","DK 688",7752.39323747654
+940,"Argentina","Argentina",-37.75,301.7,"INTA","c4","c4","RFD",38,"lo","DSSATv4.0.2","CERES-Maize","DK 688",9533.60639890037
+943,"Argentina","Argentina",-32.68,297.88,"INTA","c4","c4","RFD",84,"lo","DSSATv4.0.2","CERES-Maize","DK 752",8379.46114446208
+946,"Argentina","Argentina",-33.93,299.45,"INTA","c4","c4","RFD",84,"lo","DSSATv4.0.2","CERES-Maize","DK 752",9168.23295030898
+955,"South Korea","Republic of Korea",37.267,126.983,"Suwon weather station","c4","c4","RFD",174,"hi","DSSATv4.5.1.023","CERES-Maize","Gwangpyeongok",5268.98222512703
+956,"Brazil","Brazil",-6.4,320.73,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",7302.79317189479
+957,"Brazil","Brazil",-6.4,320.73,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",8053.45808447471
+959,"USA","USA",42.79,263.83,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",4530.19926015275
+962,"USA","USA",41.64,264.21,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",5822.73675439711
+963,"USA","USA",41.64,264.21,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",9029.43684827886
+965,"Brazil","Brazil",-9.39,319.49,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",3800.29700055364
+966,"Brazil","Brazil",-9.39,319.49,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",7058.04878770291
+968,"USA","USA",42.4,265.37,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",6522.88043785174
+969,"USA","USA",42.4,265.37,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","C2",9061.46812055761
+971,"Brazil","Brazil",-5.09,317.2,"AgMERRA","c4","c4","RFD",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",7026.3287353143
+972,"Brazil","Brazil",-5.09,317.2,"AgMERRA","c4","c4","IRR",999,"hi","DSSATv4.5.1.023","CERES-Maize","PIO 3382",7153.09350619868
+1015,"Australia_NZ","New Zealand",-43.79346,171.79512,"NIWA","c4","c4","RFD",0,"lo","APSIM 7.6","AgPasture","Mixed",2541.09654579196
+1026,"China","China",36.75,119.08,"AgMERRA","c4","c4","RFD",180,"hi","APSIM 5.3","APSIM-Maize","Zhengdan 958",7735.90417551102
+1028,"EU-15","Belgium",51.28,5.45,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c4","c4","RFD",150,"hi","AquaCROPv4.0","Missing","Lacta",7935.03742290463
+1029,"EU-15","Belgium",50.77,4.6,"Self-owned rain gauge on-site; National Meterological Institute for temperature, wind speed, solar radiation and relative humidity at 50.8°N, 4.35°E","c4","c4","RFD",150,"hi","AquaCROP","Missing","Tripoli",9641.18181771821
+1033,"Africa_Southern","Malawi",-15.47,35.23,"AgMERRA","c4","c4","RFD",48,"lo","DSSATv4.5.0.0","CERES-Maize","DK8033",2342.83931580547
+1034,"Africa_Southern","Malawi",-15.47,35.23,"AgMERRA","c4","c4","RFD",406,"hi","DSSATv4.5.0.0","CERES-Maize","DK8033",2615.4769584991
+1035,"Africa_Southern","Malawi",-15.47,35.23,"AgMERRA","c4","c4","RFD",92,"hi","DSSATv4.5.0.0","CERES-Maize","DK8033",4415.66849933194
+1036,"Africa_Southern","Malawi",-15.47,35.23,"AgMERRA","c4","c4","RFD",143.5,"hi","DSSATv4.5.0.0","CERES-Maize","DK8033",3503.63972053562
+1037,"Africa_Western","Senegal",14.71,343.52,"Local weather station","c4","c4","RFD",68,"lo","DSSATv4.5.1.023","CERES-Millet","Souna 3",1772.13444250561
+1101,"Australia_NZ","New Zealand",-40.25,175.26,"NIWA","c4","c4","RFD",999,"hi","APSIMv7.6","AgPasture","Perennial ryegrass (L. perenne), white clover (T. repens)",10483.4749186232
+1103,"Australia_NZ","Australia",-35.197,149.084,"CSIRO/Australian Bureau of Meteorology","c4","c4","RFD",-99,"lo","GRAZPLAN + APSIMv7.5","Missing","Bulbous canarygrass (P. aquatica), sub clover (T. subterraneum), and annual grasses",8114.52454888675
+1104,"Australia_NZ","Australia",-34.511,138.676,"Australian Bureau of Meteorology/Queensland DSITIA","c4","c4","RFD",-99,"lo","GRAZPLAN + APSIMv7.6","Missing","Ryegrass (L. rigidum), barrel clover (M. truncatula)",4749.53577909963
+1111,"EU-15","France",45.65,2.75,"Météo-France","c4","c4","RFD",200,"hi","LPJmL","Missing","Missing",1622.22
+1113,"EU-15","France",45.65,2.75,"Météo-France","c4","c4","RFD",200,"hi","LPJmL","Missing","Missing",811.11
+1114,"European Free Trade Association","Switzerland",47.28,7.73,"Swiss weather service","c4","c4","RFD",214,"hi","LPJmL","Missing","Missing",15321.3330365495
+1115,"European Free Trade Association","Switzerland",47.28,7.73,"Swiss weather service","c4","c4","RFD",214,"hi","LPJmL","Missing","Missing",14250.9050218535
+1116,"European Free Trade Association","Switzerland",47.28,7.73,"Swiss weather service","c4","c4","RFD",214,"hi","LPJmL","Missing","Missing",1621.92943241193
+1117,"European Free Trade Association","Switzerland",47.28,7.73,"Swiss weather service","c4","c4","RFD",214,"hi","LPJmL","Missing","Missing",3266.34291775064
+1118,"European Free Trade Association","Switzerland",47.28,7.73,"Swiss weather service","c4","c4","RFD",214,"hi","LPJmL","Missing","Missing",816.654984250696
+1123,"Australia_NZ","New Zealand",-43.79346,171.79512,"NIWA","c4","c4","RFD",999,"hi","APSIM 7.6","AgPasture","Mixed",8470.85687173034
+1130,"China","China",39.43,122.57,"State Climatologist Observations","c4","c4","IRR",100,"hi","APSIMv7.5","MAIZE","Late-maturing",8984.51342677519
+1131,"EU-15","France",46.44,0.14,"Agroclim, INRA","c4","c4","IRR",NA,NA,"STICS 8.3.1","Missing","",16178.0436999886
+1133,"EU-15","France",43.55,1.5,"Agroclim, INRA","c4","c4","IRR",NA,NA,"STICS v8.3.1","Missing","",13932.3348646416

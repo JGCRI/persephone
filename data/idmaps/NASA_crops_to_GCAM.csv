@@ -1,0 +1,19 @@
+Crop,GCAM_commodity,c3
+Bambara groundnut,MiscCrop,1
+Barley,OtherGrain,1
+Canola,OilCrop,1
+Chickpea,MiscCrop,1
+Cotton,FiberCrop,1
+Grapevine,MiscCrop,1
+Lentil,MiscCrop,1
+Maize,Corn,0
+Millet,OtherGrain,0
+Pasture,Pasture,0
+Peanut,OilCrop,1
+Potato,Root_Tuber,1
+Rice,Rice,1
+Rye,OtherGrain,1
+Sorghum,OtherGrain,0
+Soybeans,OilCrop,1
+Sugarcane,SugarCrop,0
+Wheat,Wheat,1
